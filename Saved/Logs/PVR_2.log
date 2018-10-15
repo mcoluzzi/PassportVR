@@ -1,0 +1,1023 @@
+﻿Log file open, 10/14/18 22:52:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PVR
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.289189
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.610s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: D:/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.15-02.52.15:050][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.15-02.52.15:050][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.15-02.52.15:182][  0]LogHAL: Display: Platform has ~ 16 GB [17065279488 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.15-02.52.15:182][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.15-02.52.15:182][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.15-02.52.15:183][  0]LogInit: Computer: LOGANS-DESKTOP
+[2018.10.15-02.52.15:183][  0]LogInit: User: brown
+[2018.10.15-02.52.15:183][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.15-02.52.15:183][  0]LogInit: High frequency timer resolution =3.914062 MHz
+[2018.10.15-02.52.15:185][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.15-02.52.15:185][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.15-02.52.15:185][  0]LogMemory: Process Physical Memory: 99.96 MB used, 99.96 MB peak
+[2018.10.15-02.52.15:185][  0]LogMemory: Process Virtual Memory: 91.33 MB used, 91.33 MB peak
+[2018.10.15-02.52.15:185][  0]LogMemory: Physical Memory: 14434.59 MB used,  1840.13 MB free, 16274.72 MB total
+[2018.10.15-02.52.15:185][  0]LogMemory: Virtual Memory: 4645.26 MB used,  1840.13 MB free, 134217728.00 MB total
+[2018.10.15-02.52.15:206][  0]LogInit: Using OS detected language (en-US).
+[2018.10.15-02.52.15:206][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.15-02.52.15:207][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.15-02.52.15:571][  0]LogStreaming: Display: Took  0.365s to InitEngineTextLocalization.
+[2018.10.15-02.52.15:571][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.15-02.52.15:592][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.15-02.52.15:592][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.15-02.52.15:947][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.15-02.52.15:992][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.10.15-02.52.15:992][  0]LogD3D11RHI:       8096/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.15-02.52.15:999][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.10.15-02.52.15:999][  0]LogD3D11RHI:       128/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.10.15-02.52.16:000][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.15-02.52.16:000][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.15-02.52.16:000][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.15-02.52.16:009][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.15-02.52.16:009][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.15-02.52.16:009][  0]LogWindows: EnumDisplayDevices:
+[2018.10.15-02.52.16:009][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2018.10.15-02.52.16:010][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.10.15-02.52.16:010][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.10.15-02.52.16:010][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.10.15-02.52.16:010][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.10.15-02.52.16:010][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.10.15-02.52.16:011][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.10.15-02.52.16:011][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.10.15-02.52.16:011][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.10.15-02.52.16:011][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.10.15-02.52.16:011][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.10.15-02.52.16:011][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2018.10.15-02.52.16:036][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.15-02.52.16:047][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.15-02.52.16:096][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../Ferris/Junior Project/PVR/Intermediate/Shaders/WorkingDirectory/12000/).
+[2018.10.15-02.52.16:096][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/brown/AppData/Local/Temp/UnrealShaderWorkingDir/FB8E95A1412A541FCB951E9250F39951/'.
+[2018.10.15-02.52.16:341][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.15-02.52.16:351][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.15-02.52.16:363][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.15-02.52.16:375][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.15-02.52.16:387][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.15-02.52.16:398][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.15-02.52.16:410][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.15-02.52.16:421][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.15-02.52.16:426][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.15-02.52.16:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:512][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:513][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:513][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.15-02.52.16:514][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.15-02.52.16:574][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.15-02.52.16:574][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.15-02.52.16:597][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.15-02.52.16:598][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.15-02.52.16:609][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.15-02.52.16:621][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.15-02.52.16:633][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.15-02.52.16:643][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.15-02.52.16:652][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.15-02.52.16:652][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.15-02.52.16:690][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.15-02.52.16:690][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.15-02.52.16:690][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.15-02.52.17:327][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.15-02.52.17:381][  0]LogDerivedDataCache: Loaded boot cache 0.05s 86MB C:/Users/brown/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.15-02.52.17:382][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/brown/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.15-02.52.17:382][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Ferris/Junior Project/PVR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.15-02.52.17:382][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.15-02.52.17:382][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Ferris/Junior Project/PVR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.15-02.52.17:382][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.15-02.52.17:394][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.15-02.52.17:406][  0]LogDerivedDataCache: Using Local data cache path C:/Users/brown/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.15-02.52.17:406][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.15-02.52.17:406][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.15-02.52.17:421][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.15-02.52.17:422][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.15-02.52.17:423][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.15-02.52.17:499][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2018.10.15-02.52.17:792][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.15-02.52.17:904][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.15-02.52.17:907][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.15-02.52.17:907][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.15-02.52.17:907][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.15-02.52.17:907][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.15-02.52.17:924][  0]LogNetVersion: PVR 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2783171166)
+[2018.10.15-02.52.18:495][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.195891 seconds
+[2018.10.15-02.52.18:501][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.15-02.52.18:501][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.15-02.52.18:501][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.15-02.52.19:309][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.15-02.52.19:321][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.15-02.52.19:451][  0]SourceControl: Source control is disabled
+[2018.10.15-02.52.19:451][  0]SourceControl: Source control is disabled
+[2018.10.15-02.52.19:452][  0]SourceControl: Source control is disabled
+[2018.10.15-02.52.19:453][  0]SourceControl: Source control is disabled
+[2018.10.15-02.52.19:610][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.15-02.52.19:848][  0]LogOcInput: OculusInput pre-init called
+[2018.10.15-02.52.19:901][  0]LogEngine: Initializing Engine...
+[2018.10.15-02.52.19:967][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-EFFB1AC1
+[2018.10.15-02.52.19:969][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.15-02.52.19:969][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.15-02.52.19:969][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.15-02.52.19:969][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.15-02.52.20:155][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.15-02.52.20:164][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.15-02.52.20:245][  0]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.15-02.52.20:331][  0]LogInit: FAudioDevice initialized.
+[2018.10.15-02.52.20:331][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.15-02.52.20:416][  0]LogDerivedDataCache: Saved boot cache 0.08s 86MB C:/Users/brown/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.15-02.52.20:431][  0]LogInit: Texture streaming: Enabled
+[2018.10.15-02.52.20:445][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.15-02.52.20:459][  0]LogInit: Transaction tracking system initialized
+[2018.10.15-02.52.20:473][  0]BlueprintLog: New page: Editor Load
+[2018.10.15-02.52.20:524][  0]LocalizationService: Localization service is disabled
+[2018.10.15-02.52.20:926][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.15-02.52.20:926][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.15-02.52.20:926][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.15-02.52.20:926][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.15-02.52.20:926][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.15-02.52.20:926][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.15-02.52.20:926][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.15-02.52.21:019][  0]LogFileCache: Scanning file cache for directory 'D:/Ferris/Junior Project/PVR/Content/' took 0.02s
+[2018.10.15-02.52.21:019][  0]SourceControl: Source control is disabled
+[2018.10.15-02.52.21:019][  0]Cmd: MAP LOAD FILE="../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.15-02.52.21:020][  0]LightingResults: New page: Lighting Build
+[2018.10.15-02.52.21:021][  0]MapCheck: New page: Map Check
+[2018.10.15-02.52.21:021][  0]LightingResults: New page: Lighting Build
+[2018.10.15-02.52.22:978][  0]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'GripRight' for  InputAction GripRight
+[2018.10.15-02.52.22:986][  0]LogBlueprint: Warning: [Compiler MotionControllerPawn] [0011.16] Compile of MotionControllerPawn successful, but with 1 Warning(s) [in 19 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2018.10.15-02.52.23:548][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Perlin_Noise_M'
+[2018.10.15-02.52.23:548][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Perlin_Noise_M' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/M_Water_Ocean.uasset.
+[2018.10.15-02.52.23:548][  0]LoadErrors: Error: /Game/Materials/M_Water_Ocean : Can't find file for asset. /Game/Textures/T_Perlin_Noise_M
+[2018.10.15-02.52.23:548][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_M'
+[2018.10.15-02.52.23:548][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_M' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/M_Water_Ocean.uasset.
+[2018.10.15-02.52.23:548][  0]LoadErrors: Error: /Game/Materials/M_Water_Ocean : Can't find file for asset. /Game/Textures/T_Water_M
+[2018.10.15-02.52.23:549][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_N'
+[2018.10.15-02.52.23:549][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/M_Water_Ocean.uasset.
+[2018.10.15-02.52.23:549][  0]LoadErrors: Error: /Game/Materials/M_Water_Ocean : Can't find file for asset. /Game/Textures/T_Water_N
+[2018.10.15-02.52.23:549][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Perlin_Noise_M'
+[2018.10.15-02.52.23:549][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Perlin_Noise_M' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/M_Water_Ocean.uasset.
+[2018.10.15-02.52.23:549][  0]LoadErrors: Error: /Game/Materials/M_Water_Ocean : Can't find file for asset. /Game/Textures/T_Perlin_Noise_M
+[2018.10.15-02.52.23:549][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_M'
+[2018.10.15-02.52.23:549][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_M' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/M_Water_Ocean.uasset.
+[2018.10.15-02.52.23:549][  0]LoadErrors: Error: /Game/Materials/M_Water_Ocean : Can't find file for asset. /Game/Textures/T_Water_M
+[2018.10.15-02.52.23:549][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_N'
+[2018.10.15-02.52.23:549][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/M_Water_Ocean.uasset.
+[2018.10.15-02.52.23:549][  0]LoadErrors: Error: /Game/Materials/M_Water_Ocean : Can't find file for asset. /Game/Textures/T_Water_N
+[2018.10.15-02.52.23:631][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_CliffRock_03_N'
+[2018.10.15-02.52.23:631][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_CliffRock_03_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/M_Photoscan_Master.uasset.
+[2018.10.15-02.52.23:631][  0]LoadErrors: Error: /Game/Materials/M_Photoscan_Master : Can't find file for asset. /Game/Textures/T_CliffRock_03_N
+[2018.10.15-02.52.23:631][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_CliffRockTile_03_D'
+[2018.10.15-02.52.23:631][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_CliffRockTile_03_D' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/M_Photoscan_Master.uasset.
+[2018.10.15-02.52.23:631][  0]LoadErrors: Error: /Game/Materials/M_Photoscan_Master : Can't find file for asset. /Game/Textures/T_CliffRockTile_03_D
+[2018.10.15-02.52.23:632][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_CliffRock_03_N'
+[2018.10.15-02.52.23:632][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_CliffRock_03_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/M_Photoscan_Master.uasset.
+[2018.10.15-02.52.23:632][  0]LoadErrors: Error: /Game/Materials/M_Photoscan_Master : Can't find file for asset. /Game/Textures/T_CliffRock_03_N
+[2018.10.15-02.52.23:632][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_CliffRockTile_03_D'
+[2018.10.15-02.52.23:632][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_CliffRockTile_03_D' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/M_Photoscan_Master.uasset.
+[2018.10.15-02.52.23:632][  0]LoadErrors: Error: /Game/Materials/M_Photoscan_Master : Can't find file for asset. /Game/Textures/T_CliffRockTile_03_D
+[2018.10.15-02.52.23:634][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Cliff01_D_CC_R'
+[2018.10.15-02.52.23:634][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Cliff01_D_CC_R' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Cliff01.uasset.
+[2018.10.15-02.52.23:634][  0]LoadErrors: Error: /Game/Materials/MI_Cliff01 : Can't find file for asset. /Game/Textures/T_Cliff01_D_CC_R
+[2018.10.15-02.52.23:634][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Cliff01_N'
+[2018.10.15-02.52.23:634][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Cliff01_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Cliff01.uasset.
+[2018.10.15-02.52.23:634][  0]LoadErrors: Error: /Game/Materials/MI_Cliff01 : Can't find file for asset. /Game/Textures/T_Cliff01_N
+[2018.10.15-02.52.23:634][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Cliff01_D_CC_R'
+[2018.10.15-02.52.23:635][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Cliff01_D_CC_R' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Cliff01.uasset.
+[2018.10.15-02.52.23:635][  0]LoadErrors: Error: /Game/Materials/MI_Cliff01 : Can't find file for asset. /Game/Textures/T_Cliff01_D_CC_R
+[2018.10.15-02.52.23:635][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Cliff01_N'
+[2018.10.15-02.52.23:635][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Cliff01_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Cliff01.uasset.
+[2018.10.15-02.52.23:635][  0]LoadErrors: Error: /Game/Materials/MI_Cliff01 : Can't find file for asset. /Game/Textures/T_Cliff01_N
+[2018.10.15-02.52.23:746][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_LimbTile_02_D_Tex'
+[2018.10.15-02.52.23:746][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_LimbTile_02_D_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_01_Branches_2_Mat.uasset.
+[2018.10.15-02.52.23:746][  0]LoadErrors: Error: /Game/Materials/HillTree_01_Branches_2_Mat : Can't find file for asset. /Game/Textures/T_Craghead_Oak_LimbTile_02_D_Tex
+[2018.10.15-02.52.23:746][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_LimbTile_02_N_Tex'
+[2018.10.15-02.52.23:746][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_LimbTile_02_N_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_01_Branches_2_Mat.uasset.
+[2018.10.15-02.52.23:746][  0]LoadErrors: Error: /Game/Materials/HillTree_01_Branches_2_Mat : Can't find file for asset. /Game/Textures/T_Craghead_Oak_LimbTile_02_N_Tex
+[2018.10.15-02.52.23:746][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_LimbTile_02_D_Tex'
+[2018.10.15-02.52.23:746][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_LimbTile_02_D_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_01_Branches_2_Mat.uasset.
+[2018.10.15-02.52.23:747][  0]LoadErrors: Error: /Game/Materials/HillTree_01_Branches_2_Mat : Can't find file for asset. /Game/Textures/T_Craghead_Oak_LimbTile_02_D_Tex
+[2018.10.15-02.52.23:747][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_LimbTile_02_N_Tex'
+[2018.10.15-02.52.23:747][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_LimbTile_02_N_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_01_Branches_2_Mat.uasset.
+[2018.10.15-02.52.23:747][  0]LoadErrors: Error: /Game/Materials/HillTree_01_Branches_2_Mat : Can't find file for asset. /Game/Textures/T_Craghead_Oak_LimbTile_02_N_Tex
+[2018.10.15-02.52.23:748][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_Tile_01_D_Tex'
+[2018.10.15-02.52.23:748][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_Tile_01_D_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_01_Branches_Mat.uasset.
+[2018.10.15-02.52.23:748][  0]LoadErrors: Error: /Game/Materials/HillTree_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_Craghead_Oak_Tile_01_D_Tex
+[2018.10.15-02.52.23:748][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_Tile_01_N_Tex'
+[2018.10.15-02.52.23:748][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_Tile_01_N_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_01_Branches_Mat.uasset.
+[2018.10.15-02.52.23:748][  0]LoadErrors: Error: /Game/Materials/HillTree_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_Craghead_Oak_Tile_01_N_Tex
+[2018.10.15-02.52.23:749][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_TileMoss_01_D_Tex'
+[2018.10.15-02.52.23:749][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_TileMoss_01_D_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_01_Branches_Mat.uasset.
+[2018.10.15-02.52.23:749][  0]LoadErrors: Error: /Game/Materials/HillTree_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_Craghead_Oak_TileMoss_01_D_Tex
+[2018.10.15-02.52.23:749][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_Tile_01_D_Tex'
+[2018.10.15-02.52.23:749][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_Tile_01_D_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_01_Branches_Mat.uasset.
+[2018.10.15-02.52.23:749][  0]LoadErrors: Error: /Game/Materials/HillTree_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_Craghead_Oak_Tile_01_D_Tex
+[2018.10.15-02.52.23:749][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_Tile_01_N_Tex'
+[2018.10.15-02.52.23:749][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_Tile_01_N_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_01_Branches_Mat.uasset.
+[2018.10.15-02.52.23:749][  0]LoadErrors: Error: /Game/Materials/HillTree_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_Craghead_Oak_Tile_01_N_Tex
+[2018.10.15-02.52.23:749][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_TileMoss_01_D_Tex'
+[2018.10.15-02.52.23:749][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_TileMoss_01_D_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_01_Branches_Mat.uasset.
+[2018.10.15-02.52.23:749][  0]LoadErrors: Error: /Game/Materials/HillTree_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_Craghead_Oak_TileMoss_01_D_Tex
+[2018.10.15-02.52.23:771][  0]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_01_Atlas_Normal_Tex'
+[2018.10.15-02.52.23:771][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_01_Atlas_Normal_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_01_Leaves_Mat2.uasset.
+[2018.10.15-02.52.23:771][  0]LoadErrors: Error: /Game/Materials/HillTree_01_Leaves_Mat2 : Can't find file for asset. /Game/Textures/HillTree_01_Atlas_Normal_Tex
+[2018.10.15-02.52.23:771][  0]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_01_Atlas_Specular_Tex'
+[2018.10.15-02.52.23:771][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_01_Atlas_Specular_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_01_Leaves_Mat2.uasset.
+[2018.10.15-02.52.23:771][  0]LoadErrors: Error: /Game/Materials/HillTree_01_Leaves_Mat2 : Can't find file for asset. /Game/Textures/HillTree_01_Atlas_Specular_Tex
+[2018.10.15-02.52.23:771][  0]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_01_Atlas_Tex'
+[2018.10.15-02.52.23:771][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_01_Atlas_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_01_Leaves_Mat2.uasset.
+[2018.10.15-02.52.23:771][  0]LoadErrors: Error: /Game/Materials/HillTree_01_Leaves_Mat2 : Can't find file for asset. /Game/Textures/HillTree_01_Atlas_Tex
+[2018.10.15-02.52.23:771][  0]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_01_Atlas_Normal_Tex'
+[2018.10.15-02.52.23:771][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_01_Atlas_Normal_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_01_Leaves_Mat2.uasset.
+[2018.10.15-02.52.23:771][  0]LoadErrors: Error: /Game/Materials/HillTree_01_Leaves_Mat2 : Can't find file for asset. /Game/Textures/HillTree_01_Atlas_Normal_Tex
+[2018.10.15-02.52.23:771][  0]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_01_Atlas_Specular_Tex'
+[2018.10.15-02.52.23:771][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_01_Atlas_Specular_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_01_Leaves_Mat2.uasset.
+[2018.10.15-02.52.23:771][  0]LoadErrors: Error: /Game/Materials/HillTree_01_Leaves_Mat2 : Can't find file for asset. /Game/Textures/HillTree_01_Atlas_Specular_Tex
+[2018.10.15-02.52.23:771][  0]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_01_Atlas_Tex'
+[2018.10.15-02.52.23:772][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_01_Atlas_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_01_Leaves_Mat2.uasset.
+[2018.10.15-02.52.23:772][  0]LoadErrors: Error: /Game/Materials/HillTree_01_Leaves_Mat2 : Can't find file for asset. /Game/Textures/HillTree_01_Atlas_Tex
+[2018.10.15-02.52.23:777][  0]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Normal_Tex'
+[2018.10.15-02.52.23:777][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Normal_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_Tall_01_Billboard_Mat.uasset.
+[2018.10.15-02.52.23:777][  0]LoadErrors: Error: /Game/Materials/HillTree_Tall_01_Billboard_Mat : Can't find file for asset. /Game/Textures/HillTree_Tall_01_Atlas_Billboards_Normal_Tex
+[2018.10.15-02.52.23:778][  0]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Tex'
+[2018.10.15-02.52.23:778][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_Tall_01_Billboard_Mat.uasset.
+[2018.10.15-02.52.23:778][  0]LoadErrors: Error: /Game/Materials/HillTree_Tall_01_Billboard_Mat : Can't find file for asset. /Game/Textures/HillTree_Tall_01_Atlas_Billboards_Tex
+[2018.10.15-02.52.23:778][  0]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Normal_Tex'
+[2018.10.15-02.52.23:778][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Normal_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_Tall_01_Billboard_Mat.uasset.
+[2018.10.15-02.52.23:778][  0]LoadErrors: Error: /Game/Materials/HillTree_Tall_01_Billboard_Mat : Can't find file for asset. /Game/Textures/HillTree_Tall_01_Atlas_Billboards_Normal_Tex
+[2018.10.15-02.52.23:778][  0]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Tex'
+[2018.10.15-02.52.23:778][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/HillTree_Tall_01_Billboard_Mat.uasset.
+[2018.10.15-02.52.23:778][  0]LoadErrors: Error: /Game/Materials/HillTree_Tall_01_Billboard_Mat : Can't find file for asset. /Game/Textures/HillTree_Tall_01_Atlas_Billboards_Tex
+[2018.10.15-02.52.23:782][  0]LogLinker: Warning: Can't find file '/Game/Textures/texture_0'
+[2018.10.15-02.52.23:782][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/texture_0' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/_texturedMeshTextureAtlas_0.uasset.
+[2018.10.15-02.52.23:782][  0]LoadErrors: Error: /Game/Materials/_texturedMeshTextureAtlas_0 : Can't find file for asset. /Game/Textures/texture_0
+[2018.10.15-02.52.23:782][  0]LogLinker: Warning: Can't find file '/Game/Textures/texture_0'
+[2018.10.15-02.52.23:782][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/texture_0' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/_texturedMeshTextureAtlas_0.uasset.
+[2018.10.15-02.52.23:782][  0]LoadErrors: Error: /Game/Materials/_texturedMeshTextureAtlas_0 : Can't find file for asset. /Game/Textures/texture_0
+[2018.10.15-02.52.24:062][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Billboards_Normal_Tex'
+[2018.10.15-02.52.24:062][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Billboards_Normal_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Billboard_Mat.uasset.
+[2018.10.15-02.52.24:062][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Billboard_Mat : Can't find file for asset. /Game/Textures/ScotsPine_01_Atlas_Billboards_Normal_Tex
+[2018.10.15-02.52.24:062][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Billboards_Tex'
+[2018.10.15-02.52.24:062][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Billboards_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Billboard_Mat.uasset.
+[2018.10.15-02.52.24:062][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Billboard_Mat : Can't find file for asset. /Game/Textures/ScotsPine_01_Atlas_Billboards_Tex
+[2018.10.15-02.52.24:062][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Billboards_Normal_Tex'
+[2018.10.15-02.52.24:062][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Billboards_Normal_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Billboard_Mat.uasset.
+[2018.10.15-02.52.24:063][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Billboard_Mat : Can't find file for asset. /Game/Textures/ScotsPine_01_Atlas_Billboards_Normal_Tex
+[2018.10.15-02.52.24:063][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Billboards_Tex'
+[2018.10.15-02.52.24:063][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Billboards_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Billboard_Mat.uasset.
+[2018.10.15-02.52.24:063][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Billboard_Mat : Can't find file for asset. /Game/Textures/ScotsPine_01_Atlas_Billboards_Tex
+[2018.10.15-02.52.24:065][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_N_Tex'
+[2018.10.15-02.52.24:065][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_N_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Branches_2_Mat.uasset.
+[2018.10.15-02.52.24:065][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_2_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_01_N_Tex
+[2018.10.15-02.52.24:065][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_Tex'
+[2018.10.15-02.52.24:065][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Branches_2_Mat.uasset.
+[2018.10.15-02.52.24:065][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_2_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_01_Tex
+[2018.10.15-02.52.24:065][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_D_Tex'
+[2018.10.15-02.52.24:065][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_D_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Branches_2_Mat.uasset.
+[2018.10.15-02.52.24:065][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_2_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_03_D_Tex
+[2018.10.15-02.52.24:065][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_N_Tex'
+[2018.10.15-02.52.24:065][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_N_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Branches_2_Mat.uasset.
+[2018.10.15-02.52.24:065][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_2_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_01_N_Tex
+[2018.10.15-02.52.24:066][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_Tex'
+[2018.10.15-02.52.24:066][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Branches_2_Mat.uasset.
+[2018.10.15-02.52.24:066][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_2_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_01_Tex
+[2018.10.15-02.52.24:066][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_D_Tex'
+[2018.10.15-02.52.24:066][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_D_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Branches_2_Mat.uasset.
+[2018.10.15-02.52.24:066][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_2_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_03_D_Tex
+[2018.10.15-02.52.24:067][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_N_Tex'
+[2018.10.15-02.52.24:067][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_N_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Branches_Mat.uasset.
+[2018.10.15-02.52.24:067][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_01_N_Tex
+[2018.10.15-02.52.24:068][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_Tex'
+[2018.10.15-02.52.24:068][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Branches_Mat.uasset.
+[2018.10.15-02.52.24:068][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_01_Tex
+[2018.10.15-02.52.24:068][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_D_Tex'
+[2018.10.15-02.52.24:068][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_D_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Branches_Mat.uasset.
+[2018.10.15-02.52.24:068][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_03_D_Tex
+[2018.10.15-02.52.24:068][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_N'
+[2018.10.15-02.52.24:068][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Branches_Mat.uasset.
+[2018.10.15-02.52.24:068][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_03_N
+[2018.10.15-02.52.24:068][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_N_Tex'
+[2018.10.15-02.52.24:068][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_N_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Branches_Mat.uasset.
+[2018.10.15-02.52.24:068][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_01_N_Tex
+[2018.10.15-02.52.24:068][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_Tex'
+[2018.10.15-02.52.24:068][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Branches_Mat.uasset.
+[2018.10.15-02.52.24:068][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_01_Tex
+[2018.10.15-02.52.24:068][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_D_Tex'
+[2018.10.15-02.52.24:069][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_D_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Branches_Mat.uasset.
+[2018.10.15-02.52.24:069][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_03_D_Tex
+[2018.10.15-02.52.24:069][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_N'
+[2018.10.15-02.52.24:069][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Branches_Mat.uasset.
+[2018.10.15-02.52.24:069][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_03_N
+[2018.10.15-02.52.24:070][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_D_Tex'
+[2018.10.15-02.52.24:070][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_D_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Fronds_Mat.uasset.
+[2018.10.15-02.52.24:070][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Fronds_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_03_D_Tex
+[2018.10.15-02.52.24:070][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_N'
+[2018.10.15-02.52.24:070][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Fronds_Mat.uasset.
+[2018.10.15-02.52.24:070][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Fronds_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_03_N
+[2018.10.15-02.52.24:070][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_D_Tex'
+[2018.10.15-02.52.24:071][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_D_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Fronds_Mat.uasset.
+[2018.10.15-02.52.24:071][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Fronds_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_03_D_Tex
+[2018.10.15-02.52.24:071][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_N'
+[2018.10.15-02.52.24:071][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Fronds_Mat.uasset.
+[2018.10.15-02.52.24:071][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Fronds_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_03_N
+[2018.10.15-02.52.24:073][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Normal_Tex'
+[2018.10.15-02.52.24:073][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Normal_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Leaves_Mat.uasset.
+[2018.10.15-02.52.24:073][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Leaves_Mat : Can't find file for asset. /Game/Textures/ScotsPine_01_Atlas_Normal_Tex
+[2018.10.15-02.52.24:073][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Specular_Tex'
+[2018.10.15-02.52.24:073][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Specular_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Leaves_Mat.uasset.
+[2018.10.15-02.52.24:073][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Leaves_Mat : Can't find file for asset. /Game/Textures/ScotsPine_01_Atlas_Specular_Tex
+[2018.10.15-02.52.24:073][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Tex'
+[2018.10.15-02.52.24:073][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Leaves_Mat.uasset.
+[2018.10.15-02.52.24:073][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Leaves_Mat : Can't find file for asset. /Game/Textures/ScotsPine_01_Atlas_Tex
+[2018.10.15-02.52.24:073][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Normal_Tex'
+[2018.10.15-02.52.24:073][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Normal_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Leaves_Mat.uasset.
+[2018.10.15-02.52.24:073][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Leaves_Mat : Can't find file for asset. /Game/Textures/ScotsPine_01_Atlas_Normal_Tex
+[2018.10.15-02.52.24:073][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Specular_Tex'
+[2018.10.15-02.52.24:074][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Specular_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Leaves_Mat.uasset.
+[2018.10.15-02.52.24:074][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Leaves_Mat : Can't find file for asset. /Game/Textures/ScotsPine_01_Atlas_Specular_Tex
+[2018.10.15-02.52.24:074][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Tex'
+[2018.10.15-02.52.24:074][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPine_01_Leaves_Mat.uasset.
+[2018.10.15-02.52.24:074][  0]LoadErrors: Error: /Game/Materials/ScotsPine_01_Leaves_Mat : Can't find file for asset. /Game/Textures/ScotsPine_01_Atlas_Tex
+[2018.10.15-02.52.24:204][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Normal_Tex'
+[2018.10.15-02.52.24:204][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Normal_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPineTall_01_Billboard_Mat.uasset.
+[2018.10.15-02.52.24:204][  0]LoadErrors: Error: /Game/Materials/ScotsPineTall_01_Billboard_Mat : Can't find file for asset. /Game/Textures/ScotsPineTall_01_Atlas_Billboards_Normal_Tex
+[2018.10.15-02.52.24:204][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Tex'
+[2018.10.15-02.52.24:204][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPineTall_01_Billboard_Mat.uasset.
+[2018.10.15-02.52.24:204][  0]LoadErrors: Error: /Game/Materials/ScotsPineTall_01_Billboard_Mat : Can't find file for asset. /Game/Textures/ScotsPineTall_01_Atlas_Billboards_Tex
+[2018.10.15-02.52.24:204][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Normal_Tex'
+[2018.10.15-02.52.24:204][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Normal_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPineTall_01_Billboard_Mat.uasset.
+[2018.10.15-02.52.24:204][  0]LoadErrors: Error: /Game/Materials/ScotsPineTall_01_Billboard_Mat : Can't find file for asset. /Game/Textures/ScotsPineTall_01_Atlas_Billboards_Normal_Tex
+[2018.10.15-02.52.24:205][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Tex'
+[2018.10.15-02.52.24:205][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Tex' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/ScotsPineTall_01_Billboard_Mat.uasset.
+[2018.10.15-02.52.24:205][  0]LoadErrors: Error: /Game/Materials/ScotsPineTall_01_Billboard_Mat : Can't find file for asset. /Game/Textures/ScotsPineTall_01_Atlas_Billboards_Tex
+[2018.10.15-02.52.24:285][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree_001_D_CC'
+[2018.10.15-02.52.24:285][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree_001_D_CC' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Scree_001_CC.uasset.
+[2018.10.15-02.52.24:285][  0]LoadErrors: Error: /Game/Materials/MI_Scree_001_CC : Can't find file for asset. /Game/Textures/T_Scree_001_D_CC
+[2018.10.15-02.52.24:285][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree_001_N'
+[2018.10.15-02.52.24:285][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree_001_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Scree_001_CC.uasset.
+[2018.10.15-02.52.24:285][  0]LoadErrors: Error: /Game/Materials/MI_Scree_001_CC : Can't find file for asset. /Game/Textures/T_Scree_001_N
+[2018.10.15-02.52.24:286][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree_001_D_CC'
+[2018.10.15-02.52.24:286][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree_001_D_CC' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Scree_001_CC.uasset.
+[2018.10.15-02.52.24:286][  0]LoadErrors: Error: /Game/Materials/MI_Scree_001_CC : Can't find file for asset. /Game/Textures/T_Scree_001_D_CC
+[2018.10.15-02.52.24:286][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree_001_N'
+[2018.10.15-02.52.24:286][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree_001_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Scree_001_CC.uasset.
+[2018.10.15-02.52.24:286][  0]LoadErrors: Error: /Game/Materials/MI_Scree_001_CC : Can't find file for asset. /Game/Textures/T_Scree_001_N
+[2018.10.15-02.52.24:814][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Boulder05_D_CC_R'
+[2018.10.15-02.52.24:814][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Boulder05_D_CC_R' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Boulder05a.uasset.
+[2018.10.15-02.52.24:814][  0]LoadErrors: Error: /Game/Materials/MI_Boulder05a : Can't find file for asset. /Game/Textures/T_Boulder05_D_CC_R
+[2018.10.15-02.52.24:814][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Boulder05_N'
+[2018.10.15-02.52.24:814][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Boulder05_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Boulder05a.uasset.
+[2018.10.15-02.52.24:814][  0]LoadErrors: Error: /Game/Materials/MI_Boulder05a : Can't find file for asset. /Game/Textures/T_Boulder05_N
+[2018.10.15-02.52.24:814][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Boulder05_D_CC_R'
+[2018.10.15-02.52.24:814][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Boulder05_D_CC_R' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Boulder05a.uasset.
+[2018.10.15-02.52.24:814][  0]LoadErrors: Error: /Game/Materials/MI_Boulder05a : Can't find file for asset. /Game/Textures/T_Boulder05_D_CC_R
+[2018.10.15-02.52.24:814][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Boulder05_N'
+[2018.10.15-02.52.24:815][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Boulder05_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Boulder05a.uasset.
+[2018.10.15-02.52.24:815][  0]LoadErrors: Error: /Game/Materials/MI_Boulder05a : Can't find file for asset. /Game/Textures/T_Boulder05_N
+[2018.10.15-02.52.25:017][  0]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01'
+[2018.10.15-02.52.25:017][  0]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01' while loading ../../../../Ferris/Junior Project/PVR/Content/Meshes/SM_Cliff01.uasset.
+[2018.10.15-02.52.25:017][  0]LoadErrors: Error: /Game/Meshes/SM_Cliff01 : Can't find file for asset. /Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01
+[2018.10.15-02.52.25:017][  0]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01'
+[2018.10.15-02.52.25:018][  0]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01' while loading ../../../../Ferris/Junior Project/PVR/Content/Meshes/SM_Cliff01.uasset.
+[2018.10.15-02.52.25:018][  0]LoadErrors: Error: /Game/Meshes/SM_Cliff01 : Can't find file for asset. /Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01
+[2018.10.15-02.52.25:257][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_FieldGrass_01_D'
+[2018.10.15-02.52.25:257][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_FieldGrass_01_D' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/M_FieldGrass_01.uasset.
+[2018.10.15-02.52.25:257][  0]LoadErrors: Error: /Game/Materials/M_FieldGrass_01 : Can't find file for asset. /Game/Textures/T_FieldGrass_01_D
+[2018.10.15-02.52.25:257][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_FieldGrass_02_M'
+[2018.10.15-02.52.25:258][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_FieldGrass_02_M' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/M_FieldGrass_01.uasset.
+[2018.10.15-02.52.25:258][  0]LoadErrors: Error: /Game/Materials/M_FieldGrass_01 : Can't find file for asset. /Game/Textures/T_FieldGrass_02_M
+[2018.10.15-02.52.25:258][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_N'
+[2018.10.15-02.52.25:258][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/M_FieldGrass_01.uasset.
+[2018.10.15-02.52.25:258][  0]LoadErrors: Error: /Game/Materials/M_FieldGrass_01 : Can't find file for asset. /Game/Textures/T_Water_N
+[2018.10.15-02.52.25:258][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_FieldGrass_01_D'
+[2018.10.15-02.52.25:258][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_FieldGrass_01_D' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/M_FieldGrass_01.uasset.
+[2018.10.15-02.52.25:258][  0]LoadErrors: Error: /Game/Materials/M_FieldGrass_01 : Can't find file for asset. /Game/Textures/T_FieldGrass_01_D
+[2018.10.15-02.52.25:258][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_FieldGrass_02_M'
+[2018.10.15-02.52.25:258][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_FieldGrass_02_M' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/M_FieldGrass_01.uasset.
+[2018.10.15-02.52.25:258][  0]LoadErrors: Error: /Game/Materials/M_FieldGrass_01 : Can't find file for asset. /Game/Textures/T_FieldGrass_02_M
+[2018.10.15-02.52.25:258][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_N'
+[2018.10.15-02.52.25:258][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/M_FieldGrass_01.uasset.
+[2018.10.15-02.52.25:258][  0]LoadErrors: Error: /Game/Materials/M_FieldGrass_01 : Can't find file for asset. /Game/Textures/T_Water_N
+[2018.10.15-02.52.25:400][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_River_Rock_01_D_CC_R'
+[2018.10.15-02.52.25:400][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_River_Rock_01_D_CC_R' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_River_Rock_01.uasset.
+[2018.10.15-02.52.25:400][  0]LoadErrors: Error: /Game/Materials/MI_River_Rock_01 : Can't find file for asset. /Game/Textures/T_River_Rock_01_D_CC_R
+[2018.10.15-02.52.25:400][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_River_Rock_01_N'
+[2018.10.15-02.52.25:400][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_River_Rock_01_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_River_Rock_01.uasset.
+[2018.10.15-02.52.25:400][  0]LoadErrors: Error: /Game/Materials/MI_River_Rock_01 : Can't find file for asset. /Game/Textures/T_River_Rock_01_N
+[2018.10.15-02.52.25:400][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_River_Rock_01_D_CC_R'
+[2018.10.15-02.52.25:400][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_River_Rock_01_D_CC_R' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_River_Rock_01.uasset.
+[2018.10.15-02.52.25:400][  0]LoadErrors: Error: /Game/Materials/MI_River_Rock_01 : Can't find file for asset. /Game/Textures/T_River_Rock_01_D_CC_R
+[2018.10.15-02.52.25:400][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_River_Rock_01_N'
+[2018.10.15-02.52.25:400][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_River_Rock_01_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_River_Rock_01.uasset.
+[2018.10.15-02.52.25:401][  0]LoadErrors: Error: /Game/Materials/MI_River_Rock_01 : Can't find file for asset. /Game/Textures/T_River_Rock_01_N
+[2018.10.15-02.52.25:567][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree002_D_R'
+[2018.10.15-02.52.25:567][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree002_D_R' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Scree002_NEW.uasset.
+[2018.10.15-02.52.25:568][  0]LoadErrors: Error: /Game/Materials/MI_Scree002_NEW : Can't find file for asset. /Game/Textures/T_Scree002_D_R
+[2018.10.15-02.52.25:568][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree002_N'
+[2018.10.15-02.52.25:568][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree002_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Scree002_NEW.uasset.
+[2018.10.15-02.52.25:568][  0]LoadErrors: Error: /Game/Materials/MI_Scree002_NEW : Can't find file for asset. /Game/Textures/T_Scree002_N
+[2018.10.15-02.52.25:568][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree002_D_R'
+[2018.10.15-02.52.25:568][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree002_D_R' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Scree002_NEW.uasset.
+[2018.10.15-02.52.25:568][  0]LoadErrors: Error: /Game/Materials/MI_Scree002_NEW : Can't find file for asset. /Game/Textures/T_Scree002_D_R
+[2018.10.15-02.52.25:568][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree002_N'
+[2018.10.15-02.52.25:568][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree002_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Scree002_NEW.uasset.
+[2018.10.15-02.52.25:568][  0]LoadErrors: Error: /Game/Materials/MI_Scree002_NEW : Can't find file for asset. /Game/Textures/T_Scree002_N
+[2018.10.15-02.52.25:627][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Vegetation_Debris_002_D_R'
+[2018.10.15-02.52.25:627][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Vegetation_Debris_002_D_R' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Vegetation_Debris_002.uasset.
+[2018.10.15-02.52.25:627][  0]LoadErrors: Error: /Game/Materials/MI_Vegetation_Debris_002 : Can't find file for asset. /Game/Textures/T_Vegetation_Debris_002_D_R
+[2018.10.15-02.52.25:628][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Vegetation_Debris_002_N'
+[2018.10.15-02.52.25:628][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Vegetation_Debris_002_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Vegetation_Debris_002.uasset.
+[2018.10.15-02.52.25:628][  0]LoadErrors: Error: /Game/Materials/MI_Vegetation_Debris_002 : Can't find file for asset. /Game/Textures/T_Vegetation_Debris_002_N
+[2018.10.15-02.52.25:628][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Vegetation_Debris_002_D_R'
+[2018.10.15-02.52.25:628][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Vegetation_Debris_002_D_R' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Vegetation_Debris_002.uasset.
+[2018.10.15-02.52.25:628][  0]LoadErrors: Error: /Game/Materials/MI_Vegetation_Debris_002 : Can't find file for asset. /Game/Textures/T_Vegetation_Debris_002_D_R
+[2018.10.15-02.52.25:628][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Vegetation_Debris_002_N'
+[2018.10.15-02.52.25:628][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Vegetation_Debris_002_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Vegetation_Debris_002.uasset.
+[2018.10.15-02.52.25:628][  0]LoadErrors: Error: /Game/Materials/MI_Vegetation_Debris_002 : Can't find file for asset. /Game/Textures/T_Vegetation_Debris_002_N
+[2018.10.15-02.52.25:748][  0]LogLinker: Warning: Can't find file '/Game/Textures/D_Tree_Stump_01_D_R'
+[2018.10.15-02.52.25:749][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/D_Tree_Stump_01_D_R' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Tree_Stump_01.uasset.
+[2018.10.15-02.52.25:749][  0]LoadErrors: Error: /Game/Materials/MI_Tree_Stump_01 : Can't find file for asset. /Game/Textures/D_Tree_Stump_01_D_R
+[2018.10.15-02.52.25:749][  0]LogLinker: Warning: Can't find file '/Game/Textures/D_Tree_Stump_01_N'
+[2018.10.15-02.52.25:749][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/D_Tree_Stump_01_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Tree_Stump_01.uasset.
+[2018.10.15-02.52.25:749][  0]LoadErrors: Error: /Game/Materials/MI_Tree_Stump_01 : Can't find file for asset. /Game/Textures/D_Tree_Stump_01_N
+[2018.10.15-02.52.25:749][  0]LogLinker: Warning: Can't find file '/Game/Textures/D_Tree_Stump_01_D_R'
+[2018.10.15-02.52.25:749][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/D_Tree_Stump_01_D_R' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Tree_Stump_01.uasset.
+[2018.10.15-02.52.25:749][  0]LoadErrors: Error: /Game/Materials/MI_Tree_Stump_01 : Can't find file for asset. /Game/Textures/D_Tree_Stump_01_D_R
+[2018.10.15-02.52.25:749][  0]LogLinker: Warning: Can't find file '/Game/Textures/D_Tree_Stump_01_N'
+[2018.10.15-02.52.25:749][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/D_Tree_Stump_01_N' while loading ../../../../Ferris/Junior Project/PVR/Content/Materials/MI_Tree_Stump_01.uasset.
+[2018.10.15-02.52.25:749][  0]LoadErrors: Error: /Game/Materials/MI_Tree_Stump_01 : Can't find file for asset. /Game/Textures/D_Tree_Stump_01_N
+[2018.10.15-02.52.25:836][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_N'
+[2018.10.15-02.52.25:836][  0]LoadErrors: Failed to load /Game/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_15
+[2018.10.15-02.52.25:836][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_N' while loading NULL.
+[2018.10.15-02.52.25:836][  0]LoadErrors: Failed to load /Game/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_15
+[2018.10.15-02.52.25:836][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_N'
+[2018.10.15-02.52.25:837][  0]LoadErrors: Failed to load /Game/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_16
+[2018.10.15-02.52.25:837][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_N' while loading NULL.
+[2018.10.15-02.52.25:837][  0]LoadErrors: Failed to load /Game/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_16
+[2018.10.15-02.52.25:837][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_M'
+[2018.10.15-02.52.25:837][  0]LoadErrors: Failed to load /Game/Textures/T_Water_M.T_Water_M Referenced by MaterialExpressionTextureSample_18
+[2018.10.15-02.52.25:837][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_M' while loading NULL.
+[2018.10.15-02.52.25:837][  0]LoadErrors: Failed to load /Game/Textures/T_Water_M.T_Water_M Referenced by MaterialExpressionTextureSample_18
+[2018.10.15-02.52.25:837][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_M'
+[2018.10.15-02.52.25:837][  0]LoadErrors: Failed to load /Game/Textures/T_Water_M.T_Water_M Referenced by MaterialExpressionTextureSample_19
+[2018.10.15-02.52.25:837][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_M' while loading NULL.
+[2018.10.15-02.52.25:837][  0]LoadErrors: Failed to load /Game/Textures/T_Water_M.T_Water_M Referenced by MaterialExpressionTextureSample_19
+[2018.10.15-02.52.25:837][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Perlin_Noise_M'
+[2018.10.15-02.52.25:837][  0]LoadErrors: Failed to load /Game/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M Referenced by MaterialExpressionTextureSample_21
+[2018.10.15-02.52.25:837][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Perlin_Noise_M' while loading NULL.
+[2018.10.15-02.52.25:837][  0]LoadErrors: Failed to load /Game/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M Referenced by MaterialExpressionTextureSample_21
+[2018.10.15-02.52.25:837][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_N'
+[2018.10.15-02.52.25:837][  0]LoadErrors: Failed to load /Game/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_6
+[2018.10.15-02.52.25:837][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_N' while loading NULL.
+[2018.10.15-02.52.25:838][  0]LoadErrors: Failed to load /Game/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_6
+[2018.10.15-02.52.26:128][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Tex'
+[2018.10.15-02.52.26:128][  0]LoadErrors: Failed to load /Game/Textures/ScotsPineTall_01_Atlas_Billboards_Tex.ScotsPineTall_01_Atlas_Billboards_Tex Referenced by MaterialExpressionTextureSample_11
+[2018.10.15-02.52.26:128][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Tex' while loading NULL.
+[2018.10.15-02.52.26:128][  0]LoadErrors: Failed to load /Game/Textures/ScotsPineTall_01_Atlas_Billboards_Tex.ScotsPineTall_01_Atlas_Billboards_Tex Referenced by MaterialExpressionTextureSample_11
+[2018.10.15-02.52.26:128][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Normal_Tex'
+[2018.10.15-02.52.26:128][  0]LoadErrors: Failed to load /Game/Textures/ScotsPineTall_01_Atlas_Billboards_Normal_Tex.ScotsPineTall_01_Atlas_Billboards_Normal_Tex Referenced by MaterialExpressionTextureSample_12
+[2018.10.15-02.52.26:128][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Normal_Tex' while loading NULL.
+[2018.10.15-02.52.26:128][  0]LoadErrors: Failed to load /Game/Textures/ScotsPineTall_01_Atlas_Billboards_Normal_Tex.ScotsPineTall_01_Atlas_Billboards_Normal_Tex Referenced by MaterialExpressionTextureSample_12
+[2018.10.15-02.52.26:231][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Normal_Tex'
+[2018.10.15-02.52.26:231][  0]LoadErrors: Failed to load /Game/Textures/ScotsPine_01_Atlas_Normal_Tex.ScotsPine_01_Atlas_Normal_Tex Referenced by MaterialExpressionTextureSampleParameter2D_6
+[2018.10.15-02.52.26:232][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Normal_Tex' while loading NULL.
+[2018.10.15-02.52.26:232][  0]LoadErrors: Failed to load /Game/Textures/ScotsPine_01_Atlas_Normal_Tex.ScotsPine_01_Atlas_Normal_Tex Referenced by MaterialExpressionTextureSampleParameter2D_6
+[2018.10.15-02.52.26:232][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Tex'
+[2018.10.15-02.52.26:232][  0]LoadErrors: Failed to load /Game/Textures/ScotsPine_01_Atlas_Tex.ScotsPine_01_Atlas_Tex Referenced by MaterialExpressionTextureSampleParameter2D_7
+[2018.10.15-02.52.26:232][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Tex' while loading NULL.
+[2018.10.15-02.52.26:232][  0]LoadErrors: Failed to load /Game/Textures/ScotsPine_01_Atlas_Tex.ScotsPine_01_Atlas_Tex Referenced by MaterialExpressionTextureSampleParameter2D_7
+[2018.10.15-02.52.26:232][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Specular_Tex'
+[2018.10.15-02.52.26:232][  0]LoadErrors: Failed to load /Game/Textures/ScotsPine_01_Atlas_Specular_Tex.ScotsPine_01_Atlas_Specular_Tex Referenced by MaterialExpressionTextureSampleParameter2D_8
+[2018.10.15-02.52.26:232][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Specular_Tex' while loading NULL.
+[2018.10.15-02.52.26:232][  0]LoadErrors: Failed to load /Game/Textures/ScotsPine_01_Atlas_Specular_Tex.ScotsPine_01_Atlas_Specular_Tex Referenced by MaterialExpressionTextureSampleParameter2D_8
+[2018.10.15-02.52.26:232][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_D_Tex'
+[2018.10.15-02.52.26:232][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_03_D_Tex.T_ScotsPine_Bark_03_D_Tex Referenced by MaterialExpressionTextureSample_11
+[2018.10.15-02.52.26:233][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_D_Tex' while loading NULL.
+[2018.10.15-02.52.26:233][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_03_D_Tex.T_ScotsPine_Bark_03_D_Tex Referenced by MaterialExpressionTextureSample_11
+[2018.10.15-02.52.26:233][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_N'
+[2018.10.15-02.52.26:233][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_03_N.T_ScotsPine_Bark_03_N Referenced by MaterialExpressionTextureSample_12
+[2018.10.15-02.52.26:233][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_N' while loading NULL.
+[2018.10.15-02.52.26:233][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_03_N.T_ScotsPine_Bark_03_N Referenced by MaterialExpressionTextureSample_12
+[2018.10.15-02.52.26:233][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_D_Tex'
+[2018.10.15-02.52.26:233][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_03_D_Tex.T_ScotsPine_Bark_03_D_Tex Referenced by MaterialExpressionTextureSample_1
+[2018.10.15-02.52.26:233][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_D_Tex' while loading NULL.
+[2018.10.15-02.52.26:233][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_03_D_Tex.T_ScotsPine_Bark_03_D_Tex Referenced by MaterialExpressionTextureSample_1
+[2018.10.15-02.52.26:233][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_Tex'
+[2018.10.15-02.52.26:233][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_01_Tex.T_ScotsPine_Bark_01_Tex Referenced by MaterialExpressionTextureSample_16
+[2018.10.15-02.52.26:233][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_Tex' while loading NULL.
+[2018.10.15-02.52.26:234][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_01_Tex.T_ScotsPine_Bark_01_Tex Referenced by MaterialExpressionTextureSample_16
+[2018.10.15-02.52.26:234][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_N_Tex'
+[2018.10.15-02.52.26:234][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_01_N_Tex.T_ScotsPine_Bark_01_N_Tex Referenced by MaterialExpressionTextureSample_17
+[2018.10.15-02.52.26:234][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_N_Tex' while loading NULL.
+[2018.10.15-02.52.26:234][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_01_N_Tex.T_ScotsPine_Bark_01_N_Tex Referenced by MaterialExpressionTextureSample_17
+[2018.10.15-02.52.26:234][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_N'
+[2018.10.15-02.52.26:234][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_03_N.T_ScotsPine_Bark_03_N Referenced by MaterialExpressionTextureSample_2
+[2018.10.15-02.52.26:234][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_N' while loading NULL.
+[2018.10.15-02.52.26:234][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_03_N.T_ScotsPine_Bark_03_N Referenced by MaterialExpressionTextureSample_2
+[2018.10.15-02.52.26:234][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_Tex'
+[2018.10.15-02.52.26:234][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_01_Tex.T_ScotsPine_Bark_01_Tex Referenced by MaterialExpressionTextureSample_3
+[2018.10.15-02.52.26:234][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_Tex' while loading NULL.
+[2018.10.15-02.52.26:234][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_01_Tex.T_ScotsPine_Bark_01_Tex Referenced by MaterialExpressionTextureSample_3
+[2018.10.15-02.52.26:235][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_Tex'
+[2018.10.15-02.52.26:235][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_01_Tex.T_ScotsPine_Bark_01_Tex Referenced by MaterialExpressionTextureSample_4
+[2018.10.15-02.52.26:235][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_Tex' while loading NULL.
+[2018.10.15-02.52.26:235][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_01_Tex.T_ScotsPine_Bark_01_Tex Referenced by MaterialExpressionTextureSample_4
+[2018.10.15-02.52.26:235][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_D_Tex'
+[2018.10.15-02.52.26:235][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_03_D_Tex.T_ScotsPine_Bark_03_D_Tex Referenced by MaterialExpressionTextureSample_5
+[2018.10.15-02.52.26:235][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_D_Tex' while loading NULL.
+[2018.10.15-02.52.26:235][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_03_D_Tex.T_ScotsPine_Bark_03_D_Tex Referenced by MaterialExpressionTextureSample_5
+[2018.10.15-02.52.26:235][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_N_Tex'
+[2018.10.15-02.52.26:235][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_01_N_Tex.T_ScotsPine_Bark_01_N_Tex Referenced by MaterialExpressionTextureSample_6
+[2018.10.15-02.52.26:235][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_N_Tex' while loading NULL.
+[2018.10.15-02.52.26:235][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_01_N_Tex.T_ScotsPine_Bark_01_N_Tex Referenced by MaterialExpressionTextureSample_6
+[2018.10.15-02.52.26:235][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_N_Tex'
+[2018.10.15-02.52.26:235][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_01_N_Tex.T_ScotsPine_Bark_01_N_Tex Referenced by MaterialExpressionTextureSample_7
+[2018.10.15-02.52.26:235][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_N_Tex' while loading NULL.
+[2018.10.15-02.52.26:235][  0]LoadErrors: Failed to load /Game/Textures/T_ScotsPine_Bark_01_N_Tex.T_ScotsPine_Bark_01_N_Tex Referenced by MaterialExpressionTextureSample_7
+[2018.10.15-02.52.26:236][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Billboards_Tex'
+[2018.10.15-02.52.26:236][  0]LoadErrors: Failed to load /Game/Textures/ScotsPine_01_Atlas_Billboards_Tex.ScotsPine_01_Atlas_Billboards_Tex Referenced by MaterialExpressionTextureSample_13
+[2018.10.15-02.52.26:236][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Billboards_Tex' while loading NULL.
+[2018.10.15-02.52.26:236][  0]LoadErrors: Failed to load /Game/Textures/ScotsPine_01_Atlas_Billboards_Tex.ScotsPine_01_Atlas_Billboards_Tex Referenced by MaterialExpressionTextureSample_13
+[2018.10.15-02.52.26:236][  0]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Billboards_Normal_Tex'
+[2018.10.15-02.52.26:236][  0]LoadErrors: Failed to load /Game/Textures/ScotsPine_01_Atlas_Billboards_Normal_Tex.ScotsPine_01_Atlas_Billboards_Normal_Tex Referenced by MaterialExpressionTextureSample_14
+[2018.10.15-02.52.26:236][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Billboards_Normal_Tex' while loading NULL.
+[2018.10.15-02.52.26:236][  0]LoadErrors: Failed to load /Game/Textures/ScotsPine_01_Atlas_Billboards_Normal_Tex.ScotsPine_01_Atlas_Billboards_Normal_Tex Referenced by MaterialExpressionTextureSample_14
+[2018.10.15-02.52.26:278][  0]LogLinker: Warning: Can't find file '/Game/Textures/texture_0'
+[2018.10.15-02.52.26:278][  0]LoadErrors: Failed to load /Game/Textures/texture_0.texture_0 Referenced by MaterialExpressionTextureSample_0
+[2018.10.15-02.52.26:279][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/texture_0' while loading NULL.
+[2018.10.15-02.52.26:279][  0]LoadErrors: Failed to load /Game/Textures/texture_0.texture_0 Referenced by MaterialExpressionTextureSample_0
+[2018.10.15-02.52.26:280][  0]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Tex'
+[2018.10.15-02.52.26:280][  0]LoadErrors: Failed to load /Game/Textures/HillTree_Tall_01_Atlas_Billboards_Tex.HillTree_Tall_01_Atlas_Billboards_Tex Referenced by MaterialExpressionTextureSample_10
+[2018.10.15-02.52.26:280][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Tex' while loading NULL.
+[2018.10.15-02.52.26:280][  0]LoadErrors: Failed to load /Game/Textures/HillTree_Tall_01_Atlas_Billboards_Tex.HillTree_Tall_01_Atlas_Billboards_Tex Referenced by MaterialExpressionTextureSample_10
+[2018.10.15-02.52.26:280][  0]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Normal_Tex'
+[2018.10.15-02.52.26:280][  0]LoadErrors: Failed to load /Game/Textures/HillTree_Tall_01_Atlas_Billboards_Normal_Tex.HillTree_Tall_01_Atlas_Billboards_Normal_Tex Referenced by MaterialExpressionTextureSample_11
+[2018.10.15-02.52.26:281][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Normal_Tex' while loading NULL.
+[2018.10.15-02.52.26:281][  0]LoadErrors: Failed to load /Game/Textures/HillTree_Tall_01_Atlas_Billboards_Normal_Tex.HillTree_Tall_01_Atlas_Billboards_Normal_Tex Referenced by MaterialExpressionTextureSample_11
+[2018.10.15-02.52.26:281][  0]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_01_Atlas_Tex'
+[2018.10.15-02.52.26:281][  0]LoadErrors: Failed to load /Game/Textures/HillTree_01_Atlas_Tex.HillTree_01_Atlas_Tex Referenced by MaterialExpressionTextureSample_7
+[2018.10.15-02.52.26:281][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_01_Atlas_Tex' while loading NULL.
+[2018.10.15-02.52.26:282][  0]LoadErrors: Failed to load /Game/Textures/HillTree_01_Atlas_Tex.HillTree_01_Atlas_Tex Referenced by MaterialExpressionTextureSample_7
+[2018.10.15-02.52.26:282][  0]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_01_Atlas_Specular_Tex'
+[2018.10.15-02.52.26:282][  0]LoadErrors: Failed to load /Game/Textures/HillTree_01_Atlas_Specular_Tex.HillTree_01_Atlas_Specular_Tex Referenced by MaterialExpressionTextureSample_8
+[2018.10.15-02.52.26:282][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_01_Atlas_Specular_Tex' while loading NULL.
+[2018.10.15-02.52.26:282][  0]LoadErrors: Failed to load /Game/Textures/HillTree_01_Atlas_Specular_Tex.HillTree_01_Atlas_Specular_Tex Referenced by MaterialExpressionTextureSample_8
+[2018.10.15-02.52.26:282][  0]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_01_Atlas_Normal_Tex'
+[2018.10.15-02.52.26:282][  0]LoadErrors: Failed to load /Game/Textures/HillTree_01_Atlas_Normal_Tex.HillTree_01_Atlas_Normal_Tex Referenced by MaterialExpressionTextureSample_9
+[2018.10.15-02.52.26:282][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_01_Atlas_Normal_Tex' while loading NULL.
+[2018.10.15-02.52.26:282][  0]LoadErrors: Failed to load /Game/Textures/HillTree_01_Atlas_Normal_Tex.HillTree_01_Atlas_Normal_Tex Referenced by MaterialExpressionTextureSample_9
+[2018.10.15-02.52.26:282][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_Tile_01_D_Tex'
+[2018.10.15-02.52.26:282][  0]LoadErrors: Failed to load /Game/Textures/T_Craghead_Oak_Tile_01_D_Tex.T_Craghead_Oak_Tile_01_D_Tex Referenced by MaterialExpressionTextureSample_0
+[2018.10.15-02.52.26:282][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_Tile_01_D_Tex' while loading NULL.
+[2018.10.15-02.52.26:282][  0]LoadErrors: Failed to load /Game/Textures/T_Craghead_Oak_Tile_01_D_Tex.T_Craghead_Oak_Tile_01_D_Tex Referenced by MaterialExpressionTextureSample_0
+[2018.10.15-02.52.26:283][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_TileMoss_01_D_Tex'
+[2018.10.15-02.52.26:283][  0]LoadErrors: Failed to load /Game/Textures/T_Craghead_Oak_TileMoss_01_D_Tex.T_Craghead_Oak_TileMoss_01_D_Tex Referenced by MaterialExpressionTextureSample_1
+[2018.10.15-02.52.26:283][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_TileMoss_01_D_Tex' while loading NULL.
+[2018.10.15-02.52.26:283][  0]LoadErrors: Failed to load /Game/Textures/T_Craghead_Oak_TileMoss_01_D_Tex.T_Craghead_Oak_TileMoss_01_D_Tex Referenced by MaterialExpressionTextureSample_1
+[2018.10.15-02.52.26:283][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_Tile_01_N_Tex'
+[2018.10.15-02.52.26:283][  0]LoadErrors: Failed to load /Game/Textures/T_Craghead_Oak_Tile_01_N_Tex.T_Craghead_Oak_Tile_01_N_Tex Referenced by MaterialExpressionTextureSample_2
+[2018.10.15-02.52.26:283][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_Tile_01_N_Tex' while loading NULL.
+[2018.10.15-02.52.26:283][  0]LoadErrors: Failed to load /Game/Textures/T_Craghead_Oak_Tile_01_N_Tex.T_Craghead_Oak_Tile_01_N_Tex Referenced by MaterialExpressionTextureSample_2
+[2018.10.15-02.52.26:283][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_LimbTile_02_D_Tex'
+[2018.10.15-02.52.26:283][  0]LoadErrors: Failed to load /Game/Textures/T_Craghead_Oak_LimbTile_02_D_Tex.T_Craghead_Oak_LimbTile_02_D_Tex Referenced by MaterialExpressionTextureSample_3
+[2018.10.15-02.52.26:283][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_LimbTile_02_D_Tex' while loading NULL.
+[2018.10.15-02.52.26:283][  0]LoadErrors: Failed to load /Game/Textures/T_Craghead_Oak_LimbTile_02_D_Tex.T_Craghead_Oak_LimbTile_02_D_Tex Referenced by MaterialExpressionTextureSample_3
+[2018.10.15-02.52.26:284][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_LimbTile_02_N_Tex'
+[2018.10.15-02.52.26:284][  0]LoadErrors: Failed to load /Game/Textures/T_Craghead_Oak_LimbTile_02_N_Tex.T_Craghead_Oak_LimbTile_02_N_Tex Referenced by MaterialExpressionTextureSample_4
+[2018.10.15-02.52.26:284][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_LimbTile_02_N_Tex' while loading NULL.
+[2018.10.15-02.52.26:284][  0]LoadErrors: Failed to load /Game/Textures/T_Craghead_Oak_LimbTile_02_N_Tex.T_Craghead_Oak_LimbTile_02_N_Tex Referenced by MaterialExpressionTextureSample_4
+[2018.10.15-02.52.26:387][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Cliff01_D_CC_R'
+[2018.10.15-02.52.26:387][  0]LoadErrors: Failed to load /Game/Textures/T_Cliff01_D_CC_R.T_Cliff01_D_CC_R Referenced by MI_Cliff01
+[2018.10.15-02.52.26:387][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Cliff01_D_CC_R' while loading NULL.
+[2018.10.15-02.52.26:387][  0]LoadErrors: Failed to load /Game/Textures/T_Cliff01_D_CC_R.T_Cliff01_D_CC_R Referenced by MI_Cliff01
+[2018.10.15-02.52.26:387][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Cliff01_N'
+[2018.10.15-02.52.26:387][  0]LoadErrors: Failed to load /Game/Textures/T_Cliff01_N.T_Cliff01_N Referenced by MI_Cliff01
+[2018.10.15-02.52.26:387][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Cliff01_N' while loading NULL.
+[2018.10.15-02.52.26:387][  0]LoadErrors: Failed to load /Game/Textures/T_Cliff01_N.T_Cliff01_N Referenced by MI_Cliff01
+[2018.10.15-02.52.26:388][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_CliffRockTile_03_D'
+[2018.10.15-02.52.26:388][  0]LoadErrors: Failed to load /Game/Textures/T_CliffRockTile_03_D.T_CliffRockTile_03_D Referenced by MaterialExpressionTextureSample_9
+[2018.10.15-02.52.26:388][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_CliffRockTile_03_D' while loading NULL.
+[2018.10.15-02.52.26:388][  0]LoadErrors: Failed to load /Game/Textures/T_CliffRockTile_03_D.T_CliffRockTile_03_D Referenced by MaterialExpressionTextureSample_9
+[2018.10.15-02.52.26:388][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_CliffRock_03_N'
+[2018.10.15-02.52.26:388][  0]LoadErrors: Failed to load /Game/Textures/T_CliffRock_03_N.T_CliffRock_03_N Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2018.10.15-02.52.26:388][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_CliffRock_03_N' while loading NULL.
+[2018.10.15-02.52.26:388][  0]LoadErrors: Failed to load /Game/Textures/T_CliffRock_03_N.T_CliffRock_03_N Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2018.10.15-02.52.26:390][  0]LogLinker: Warning: Can't find file '/Game/Textures/D_Tree_Stump_01_D_R'
+[2018.10.15-02.52.26:390][  0]LoadErrors: Failed to load /Game/Textures/D_Tree_Stump_01_D_R.D_Tree_Stump_01_D_R Referenced by MI_Tree_Stump_01
+[2018.10.15-02.52.26:390][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/D_Tree_Stump_01_D_R' while loading NULL.
+[2018.10.15-02.52.26:390][  0]LoadErrors: Failed to load /Game/Textures/D_Tree_Stump_01_D_R.D_Tree_Stump_01_D_R Referenced by MI_Tree_Stump_01
+[2018.10.15-02.52.26:390][  0]LogLinker: Warning: Can't find file '/Game/Textures/D_Tree_Stump_01_N'
+[2018.10.15-02.52.26:390][  0]LoadErrors: Failed to load /Game/Textures/D_Tree_Stump_01_N.D_Tree_Stump_01_N Referenced by MI_Tree_Stump_01
+[2018.10.15-02.52.26:390][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/D_Tree_Stump_01_N' while loading NULL.
+[2018.10.15-02.52.26:390][  0]LoadErrors: Failed to load /Game/Textures/D_Tree_Stump_01_N.D_Tree_Stump_01_N Referenced by MI_Tree_Stump_01
+[2018.10.15-02.52.26:391][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Vegetation_Debris_002_D_R'
+[2018.10.15-02.52.26:391][  0]LoadErrors: Failed to load /Game/Textures/T_Vegetation_Debris_002_D_R.T_Vegetation_Debris_002_D_R Referenced by MI_Vegetation_Debris_002
+[2018.10.15-02.52.26:391][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Vegetation_Debris_002_D_R' while loading NULL.
+[2018.10.15-02.52.26:391][  0]LoadErrors: Failed to load /Game/Textures/T_Vegetation_Debris_002_D_R.T_Vegetation_Debris_002_D_R Referenced by MI_Vegetation_Debris_002
+[2018.10.15-02.52.26:391][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Vegetation_Debris_002_N'
+[2018.10.15-02.52.26:391][  0]LoadErrors: Failed to load /Game/Textures/T_Vegetation_Debris_002_N.T_Vegetation_Debris_002_N Referenced by MI_Vegetation_Debris_002
+[2018.10.15-02.52.26:392][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Vegetation_Debris_002_N' while loading NULL.
+[2018.10.15-02.52.26:392][  0]LoadErrors: Failed to load /Game/Textures/T_Vegetation_Debris_002_N.T_Vegetation_Debris_002_N Referenced by MI_Vegetation_Debris_002
+[2018.10.15-02.52.26:392][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree002_D_R'
+[2018.10.15-02.52.26:392][  0]LoadErrors: Failed to load /Game/Textures/T_Scree002_D_R.T_Scree002_D_R Referenced by MI_Scree002_NEW
+[2018.10.15-02.52.26:392][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree002_D_R' while loading NULL.
+[2018.10.15-02.52.26:392][  0]LoadErrors: Failed to load /Game/Textures/T_Scree002_D_R.T_Scree002_D_R Referenced by MI_Scree002_NEW
+[2018.10.15-02.52.26:392][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree002_N'
+[2018.10.15-02.52.26:392][  0]LoadErrors: Failed to load /Game/Textures/T_Scree002_N.T_Scree002_N Referenced by MI_Scree002_NEW
+[2018.10.15-02.52.26:393][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree002_N' while loading NULL.
+[2018.10.15-02.52.26:393][  0]LoadErrors: Failed to load /Game/Textures/T_Scree002_N.T_Scree002_N Referenced by MI_Scree002_NEW
+[2018.10.15-02.52.26:400][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_River_Rock_01_D_CC_R'
+[2018.10.15-02.52.26:400][  0]LoadErrors: Failed to load /Game/Textures/T_River_Rock_01_D_CC_R.T_River_Rock_01_D_CC_R Referenced by MI_River_Rock_01
+[2018.10.15-02.52.26:401][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_River_Rock_01_D_CC_R' while loading NULL.
+[2018.10.15-02.52.26:401][  0]LoadErrors: Failed to load /Game/Textures/T_River_Rock_01_D_CC_R.T_River_Rock_01_D_CC_R Referenced by MI_River_Rock_01
+[2018.10.15-02.52.26:401][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_River_Rock_01_N'
+[2018.10.15-02.52.26:401][  0]LoadErrors: Failed to load /Game/Textures/T_River_Rock_01_N.T_River_Rock_01_N Referenced by MI_River_Rock_01
+[2018.10.15-02.52.26:401][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_River_Rock_01_N' while loading NULL.
+[2018.10.15-02.52.26:401][  0]LoadErrors: Failed to load /Game/Textures/T_River_Rock_01_N.T_River_Rock_01_N Referenced by MI_River_Rock_01
+[2018.10.15-02.52.26:403][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_FieldGrass_02_M'
+[2018.10.15-02.52.26:403][  0]LoadErrors: Failed to load /Game/Textures/T_FieldGrass_02_M.T_FieldGrass_02_M Referenced by MaterialExpressionTextureSample_1
+[2018.10.15-02.52.26:404][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_FieldGrass_02_M' while loading NULL.
+[2018.10.15-02.52.26:404][  0]LoadErrors: Failed to load /Game/Textures/T_FieldGrass_02_M.T_FieldGrass_02_M Referenced by MaterialExpressionTextureSample_1
+[2018.10.15-02.52.26:404][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_N'
+[2018.10.15-02.52.26:404][  0]LoadErrors: Failed to load /Game/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_12
+[2018.10.15-02.52.26:404][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_N' while loading NULL.
+[2018.10.15-02.52.26:404][  0]LoadErrors: Failed to load /Game/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_12
+[2018.10.15-02.52.26:404][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_N'
+[2018.10.15-02.52.26:404][  0]LoadErrors: Failed to load /Game/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_13
+[2018.10.15-02.52.26:404][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_N' while loading NULL.
+[2018.10.15-02.52.26:404][  0]LoadErrors: Failed to load /Game/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_13
+[2018.10.15-02.52.26:404][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_FieldGrass_01_D'
+[2018.10.15-02.52.26:404][  0]LoadErrors: Failed to load /Game/Textures/T_FieldGrass_01_D.T_FieldGrass_01_D Referenced by MaterialExpressionTextureSampleParameter2D_1
+[2018.10.15-02.52.26:405][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_FieldGrass_01_D' while loading NULL.
+[2018.10.15-02.52.26:405][  0]LoadErrors: Failed to load /Game/Textures/T_FieldGrass_01_D.T_FieldGrass_01_D Referenced by MaterialExpressionTextureSampleParameter2D_1
+[2018.10.15-02.52.26:425][  0]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01'
+[2018.10.15-02.52.26:425][  0]LoadErrors: Failed to load /Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01.MI_Cliff01 Referenced by SM_Cliff01
+[2018.10.15-02.52.26:425][  0]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01' while loading NULL.
+[2018.10.15-02.52.26:425][  0]LoadErrors: Failed to load /Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01.MI_Cliff01 Referenced by SM_Cliff01
+[2018.10.15-02.52.26:425][  0]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01'
+[2018.10.15-02.52.26:425][  0]LoadErrors: Failed to load /Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01.MI_Cliff01 Referenced by SM_Cliff01
+[2018.10.15-02.52.26:426][  0]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01' while loading NULL.
+[2018.10.15-02.52.26:426][  0]LoadErrors: Failed to load /Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01.MI_Cliff01 Referenced by SM_Cliff01
+[2018.10.15-02.52.26:426][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Boulder05_D_CC_R'
+[2018.10.15-02.52.26:426][  0]LoadErrors: Failed to load /Game/Textures/T_Boulder05_D_CC_R.T_Boulder05_D_CC_R Referenced by MI_Boulder05a
+[2018.10.15-02.52.26:426][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Boulder05_D_CC_R' while loading NULL.
+[2018.10.15-02.52.26:426][  0]LoadErrors: Failed to load /Game/Textures/T_Boulder05_D_CC_R.T_Boulder05_D_CC_R Referenced by MI_Boulder05a
+[2018.10.15-02.52.26:426][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Boulder05_N'
+[2018.10.15-02.52.26:426][  0]LoadErrors: Failed to load /Game/Textures/T_Boulder05_N.T_Boulder05_N Referenced by MI_Boulder05a
+[2018.10.15-02.52.26:426][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Boulder05_N' while loading NULL.
+[2018.10.15-02.52.26:426][  0]LoadErrors: Failed to load /Game/Textures/T_Boulder05_N.T_Boulder05_N Referenced by MI_Boulder05a
+[2018.10.15-02.52.26:446][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree_001_D_CC'
+[2018.10.15-02.52.26:447][  0]LoadErrors: Failed to load /Game/Textures/T_Scree_001_D_CC.T_Scree_001_D_CC Referenced by MI_Scree_001_CC
+[2018.10.15-02.52.26:447][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree_001_D_CC' while loading NULL.
+[2018.10.15-02.52.26:447][  0]LoadErrors: Failed to load /Game/Textures/T_Scree_001_D_CC.T_Scree_001_D_CC Referenced by MI_Scree_001_CC
+[2018.10.15-02.52.26:447][  0]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree_001_N'
+[2018.10.15-02.52.26:447][  0]LoadErrors: Failed to load /Game/Textures/T_Scree_001_N.T_Scree_001_N Referenced by MI_Scree_001_CC
+[2018.10.15-02.52.26:447][  0]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree_001_N' while loading NULL.
+[2018.10.15-02.52.26:447][  0]LoadErrors: Failed to load /Game/Textures/T_Scree_001_N.T_Scree_001_N Referenced by MI_Scree_001_CC
+[2018.10.15-02.52.26:901][  0]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2018.10.15-02.52.26:901][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\M_Water_Ocean.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.52.26:901][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.15-02.52.26:916][  0]LogMaterial: Display: Missing cached shader map for material ScotsPineTall_01_Billboard_Mat, compiling. 
+[2018.10.15-02.52.26:917][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\ScotsPineTall_01_Billboard_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.52.26:917][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.15-02.52.27:164][  0]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Leaves_Mat, compiling. 
+[2018.10.15-02.52.27:164][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\ScotsPine_01_Leaves_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.52.27:164][  0]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.10.15-02.52.27:166][  0]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Fronds_Mat, compiling. 
+[2018.10.15-02.52.27:166][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\ScotsPine_01_Fronds_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.52.27:166][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.15-02.52.27:168][  0]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Branches_Mat, compiling. 
+[2018.10.15-02.52.27:169][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\ScotsPine_01_Branches_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.52.27:169][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.15-02.52.27:171][  0]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Branches_2_Mat, compiling. 
+[2018.10.15-02.52.27:172][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\ScotsPine_01_Branches_2_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.52.27:172][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.15-02.52.27:173][  0]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Billboard_Mat, compiling. 
+[2018.10.15-02.52.27:174][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\ScotsPine_01_Billboard_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.52.27:174][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.15-02.52.28:896][  0]LogMaterial: Display: Missing cached shader map for material defaultMat, compiling. 
+[2018.10.15-02.52.31:764][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.15-02.52.31:764][  0]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.15-02.52.31:764][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.15-02.52.31:764][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.15-02.52.31:766][  0]LogMaterial: Display: Missing cached shader map for material _texturedMeshTextureAtlas_0, compiling. 
+[2018.10.15-02.52.31:767][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\_texturedMeshTextureAtlas_0.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.52.31:767][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.15-02.52.39:317][  0]LogMaterial: Display: Missing cached shader map for material HillTree_Tall_01_Billboard_Mat, compiling. 
+[2018.10.15-02.52.39:318][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\HillTree_Tall_01_Billboard_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.52.39:318][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.15-02.52.39:320][  0]LogMaterial: Display: Missing cached shader map for material HillTree_01_Leaves_Mat2, compiling. 
+[2018.10.15-02.52.39:321][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\HillTree_01_Leaves_Mat2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.52.39:321][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.15-02.52.39:323][  0]LogMaterial: Display: Missing cached shader map for material HillTree_01_Branches_Mat, compiling. 
+[2018.10.15-02.52.39:323][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\HillTree_01_Branches_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.52.39:323][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.15-02.52.39:325][  0]LogMaterial: Display: Missing cached shader map for material HillTree_01_Branches_2_Mat, compiling. 
+[2018.10.15-02.52.39:326][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\HillTree_01_Branches_2_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.52.39:326][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.15-02.52.39:326][  0]LogStaticMesh: Building static mesh HillTree_Tall_02...
+[2018.10.15-02.57.57:932][  0]LogStaticMesh: Built static mesh [318.61s] /Game/Meshes/HillTree_Tall_02.HillTree_Tall_02
+[2018.10.15-02.57.57:940][  0]LogMaterial: Display: Missing cached shader map for material M_Photoscan_Master, compiling. 
+[2018.10.15-02.57.57:941][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\M_Photoscan_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.57.57:941][  0]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.10.15-02.57.57:941][  0]LogMaterial: 	(Node MakeMaterialAttributes) Error on property Normal
+[2018.10.15-02.57.57:943][  0]LogMaterial: Display: Missing cached shader map for material M_Photoscan_Master, compiling. 
+[2018.10.15-02.57.57:944][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\MI_Cliff01.uasset: Failed to compile Material Instance with Base M_Photoscan_Master for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.57.57:944][  0]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.10.15-02.57.57:944][  0]LogMaterial: 	(Node MakeMaterialAttributes) Error on property Normal
+[2018.10.15-02.57.58:059][  0]LogMaterial: Display: Missing cached shader map for material M_Photoscan_Master, compiling. 
+[2018.10.15-02.57.58:059][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\MI_Vegetation_Debris_002.uasset: Failed to compile Material Instance with Base M_Photoscan_Master for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.57.58:059][  0]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.10.15-02.57.58:059][  0]LogMaterial: 	(Node MakeMaterialAttributes) Error on property Normal
+[2018.10.15-02.57.58:063][  0]LogMaterial: Display: Missing cached shader map for material M_Photoscan_Master, compiling. 
+[2018.10.15-02.57.58:063][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\MI_Scree002_NEW.uasset: Failed to compile Material Instance with Base M_Photoscan_Master for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.57.58:063][  0]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.10.15-02.57.58:063][  0]LogMaterial: 	(Node MakeMaterialAttributes) Error on property Normal
+[2018.10.15-02.57.58:071][  0]LogMaterial: Display: Missing cached shader map for material M_FieldGrass_01, compiling. 
+[2018.10.15-02.57.58:072][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\M_FieldGrass_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.57.58:072][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.15-02.57.58:072][  0]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.10.15-02.57.58:073][  0]LogMaterial: Display: Missing cached shader map for material M_FieldGrass_01, compiling. 
+[2018.10.15-02.57.58:074][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\M_FieldGrass_Inst_01_LOD1.uasset: Failed to compile Material Instance with Base M_FieldGrass_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.57.58:074][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.15-02.57.58:074][  0]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.10.15-02.57.58:077][  0]LogMaterial: Display: Missing cached shader map for material M_FieldGrass_01, compiling. 
+[2018.10.15-02.57.58:077][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\M_FieldGrass_Inst_01_LOD2.uasset: Failed to compile Material Instance with Base M_FieldGrass_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.57.58:077][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.15-02.57.58:077][  0]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.10.15-02.57.58:092][  0]LogMaterial: Display: Missing cached shader map for material M_Photoscan_Master, compiling. 
+[2018.10.15-02.57.58:093][  0]LogMaterial: Warning: D:\Ferris\Junior Project\PVR\Content\Materials\MI_Scree_001_CC.uasset: Failed to compile Material Instance with Base M_Photoscan_Master for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.15-02.57.58:093][  0]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.10.15-02.57.58:093][  0]LogMaterial: 	(Node MakeMaterialAttributes) Error on property Normal
+[2018.10.15-02.57.58:177][  0]LogAIModule: Creating AISystem for world GrandLedgeLocation
+[2018.10.15-02.57.58:196][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.15-02.57.58:223][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.15-02.57.58:287][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.328ms to complete.
+[2018.10.15-02.57.58:287][  0]LogFileHelpers: Loading map 'GrandLedgeLocation' took 337.267
+[2018.10.15-02.57.58:346][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-02.57.58:353][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-02.57.58:360][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-02.57.58:367][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.15-02.57.58:371][  0]LogCollectionManager: Loaded 0 collections in 0.000865 seconds
+[2018.10.15-02.57.58:413][  0]LogFileCache: Scanning file cache for directory 'D:/Ferris/Junior Project/PVR/Saved/Collections/' took 0.01s
+[2018.10.15-02.57.58:413][  0]LogFileCache: Scanning file cache for directory 'D:/Ferris/Junior Project/PVR/Content/Developers/brown/Collections/' took 0.01s
+[2018.10.15-02.57.58:413][  0]LogFileCache: Scanning file cache for directory 'D:/Ferris/Junior Project/PVR/Content/Collections/' took 0.01s
+[2018.10.15-02.57.58:413][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.15-02.57.58:421][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2572 classes and 603 folders.
+[2018.10.15-02.57.58:426][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.15-02.57.58:472][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.15-02.57.58:475][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.15-02.57.58:490][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.15-02.57.58:492][  0]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.15-02.57.58:497][  0]LogSlate: Took 0.000374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.15-02.57.58:566][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 1 (Frame:1).
+[2018.10.15-02.57.58:624][  0]LogSlate: Took 0.000428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.15-02.57.58:693][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.15-02.57.58:693][  0]LogLoad: (Engine Initialization) Total time: 346.87 seconds
+[2018.10.15-02.57.58:693][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.15-02.57.58:703][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.15-02.57.58:726][  0]LogAssetRegistry: Asset discovery search completed in 341.2497 seconds
+[2018.10.15-02.57.58:728][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.15-02.57.58:728][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2018.10.15-02.57.58:739][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.15-02.57.58:755][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.15-02.58.12:336][587]LogSlate: Window 'Message Log' being destroyed
+[2018.10.15-02.58.12:341][587]LogSlate: Window 'Message Log' being destroyed
+[2018.10.15-04.17.22:516][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScotsPineTall_01)
+[2018.10.15-13.41.10:123][411]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.10.15-13.48.16:118][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.15-13.48.49:331][973]LogSlate: Took 0.262754 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.15-13.48.50:033][973]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Ferris/Junior Project/RockBox.obj)
+[2018.10.15-13.48.50:342][973]LogFbx: Loading FBX Scene from ../../../../Ferris/Junior Project/RockBox.obj
+[2018.10.15-13.48.50:365][973]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.15-13.49.03:523][973]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.15-13.49.07:367][973]LogMaterial: Display: Missing cached shader map for material Plane001Mat, compiling. 
+[2018.10.15-13.49.07:629][973]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.15-13.49.07:629][973]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.15-13.49.07:629][973]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.15-13.49.09:680][973]LogFbx: Warning: Triangulating static mesh Plane001
+[2018.10.15-13.49.10:154][973]LogStaticMesh: Building static mesh RockBox...
+[2018.10.15-13.49.10:249][973]LogStaticMesh: Built static mesh [0.11s] /Game/RockBox.RockBox
+[2018.10.15-13.49.19:804][554]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/RockBox.RockBox
+[2018.10.15-13.49.22:320][554]LogMaterial: Display: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.10.15-13.49.22:517][554]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.15-13.49.28:469][554]LogRenderer: Reallocating scene render targets to support 1432x924 Format 26 NumSamples 1 (Frame:1).
+[2018.10.15-13.49.28:469][554]LogSlate: Took 0.046132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.15-13.49.33:253][977]LogSlate: Window 'RockBox*' being destroyed
+[2018.10.15-13.49.33:257][977]LogSlate: Window 'RockBox*' being destroyed
+[2018.10.15-13.49.39:505][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/RockBox" FILE="../../../../Ferris/Junior Project/PVR/Content/Meshes/RockBox.uasset" SILENT=true
+[2018.10.15-13.49.40:159][537]LogSavePackage: Moving '../../../../Ferris/Junior Project/PVR/Saved/RockBox1709051C4A69FBA0C34C578F30D692EC.tmp' to '../../../../Ferris/Junior Project/PVR/Content/Meshes/RockBox.uasset'
+[2018.10.15-13.51.35:560][837]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GrandLedgeLocation' took 0.017
+[2018.10.15-13.51.35:578][837]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Plane001Mat] ([1] browsable assets)...
+[2018.10.15-13.51.35:587][837]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Plane001Mat.Plane001Mat]
+[2018.10.15-13.51.35:587][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/Plane001Mat]
+[2018.10.15-13.51.35:587][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Plane001Mat" FILE="../../../../Ferris/Junior Project/PVR/Saved/Autosaves/Game/Plane001Mat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.15-13.51.35:636][837]LogSavePackage: Moving '../../../../Ferris/Junior Project/PVR/Saved/Plane001Mat_Auto1C9B5AC1D4B956B18F11EA78C086512D9.tmp' to '../../../../Ferris/Junior Project/PVR/Saved/Autosaves/Game/Plane001Mat_Auto1.uasset'
+[2018.10.15-13.51.35:638][837]LogFileHelpers: Auto-saving content packages took 0.077
+[2018.10.15-13.52.45:085][456]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.15-13.53.03:770][596]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/CleavageBox.CleavageBox
+[2018.10.15-13.53.05:327][596]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0473 seconds. Added 116 classes and 0 folders.
+[2018.10.15-13.56.10:252][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-13.56.50:028][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-13.57.08:922][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.15-13.57.09:015][ 50]BlueprintLog: New page: Compile CleavageBox
+[2018.10.15-13.57.11:186][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/CleavageBox" FILE="../../../../Ferris/Junior Project/PVR/Content/VirtualRealityBP/Blueprints/CleavageBox.uasset" SILENT=true
+[2018.10.15-13.57.11:274][173]LogSavePackage: Moving '../../../../Ferris/Junior Project/PVR/Saved/CleavageBox8C336F594384624BFE5E3A85ADB99649.tmp' to '../../../../Ferris/Junior Project/PVR/Content/VirtualRealityBP/Blueprints/CleavageBox.uasset'
+[2018.10.15-14.08.07:260][579]LogSlate: Took 0.045214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.15-14.10.59:722][879]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GrandLedgeLocation' took 0.024
+[2018.10.15-14.10.59:735][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/CleavageBox] ([1] browsable assets)...
+[2018.10.15-14.10.59:756][879]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/CleavageBox.CleavageBox]
+[2018.10.15-14.10.59:756][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/CleavageBox]
+[2018.10.15-14.10.59:834][879]LogSavePackage: Moving '../../../../Ferris/Junior Project/PVR/Saved/CleavageBox_Auto2CBC518724A784F05F439F3843ABE8B4A.tmp' to '../../../../Ferris/Junior Project/PVR/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/CleavageBox_Auto2.uasset'
+[2018.10.15-14.10.59:836][879]LogFileHelpers: Auto-saving content packages took 0.114
+[2018.10.15-14.12.06:888][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GrandLedgeLocation" FILE="../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.15-14.12.07:544][ 43]LogSavePackage: Moving '../../../../Ferris/Junior Project/PVR/Saved/GrandLedgeLocationB2BF4ADC45BB2F76F2D29289763FEA20.tmp' to '../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap'
+[2018.10.15-14.12.07:561][ 43]LogFileManager: Warning: DeleteFile was unable to delete '../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap', retrying in .5s...
+[2018.10.15-14.12.08:062][ 43]LogFileManager: Error: Error deleting file '../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap'.
+[2018.10.15-14.12.08:062][ 43]LogSavePackage: Error: Error saving '../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap'
+[2018.10.15-14.12.08:166][ 43]EditorErrors: New page: Save Output
+[2018.10.15-14.12.08:166][ 43]EditorErrors: Warning: Error saving '../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap'
+[2018.10.15-14.12.12:188][361]LogSlate: Window 'Message Log' being destroyed
+[2018.10.15-14.12.12:192][361]LogSlate: Window 'Message Log' being destroyed
+[2018.10.15-14.12.15:019][596]BlueprintLog: New page: Compile CleavageBox
+[2018.10.15-14.12.15:760][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/CleavageBox" FILE="../../../../Ferris/Junior Project/PVR/Content/VirtualRealityBP/Blueprints/CleavageBox.uasset" SILENT=true
+[2018.10.15-14.12.15:786][637]LogSavePackage: Moving '../../../../Ferris/Junior Project/PVR/Saved/CleavageBox45F7DCD24243C44BCB5E7DAA20AF4F3C.tmp' to '../../../../Ferris/Junior Project/PVR/Content/VirtualRealityBP/Blueprints/CleavageBox.uasset'
+[2018.10.15-14.12.17:850][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GrandLedgeLocation" FILE="../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.15-14.12.18:154][802]LogSavePackage: Moving '../../../../Ferris/Junior Project/PVR/Saved/GrandLedgeLocation9B8A5D0C4FB2FC9004587C852BA05811.tmp' to '../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap'
+[2018.10.15-14.12.18:154][802]LogFileManager: Warning: DeleteFile was unable to delete '../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap', retrying in .5s...
+[2018.10.15-14.12.18:655][802]LogFileManager: Error: Error deleting file '../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap'.
+[2018.10.15-14.12.18:655][802]LogSavePackage: Error: Error saving '../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap'
+[2018.10.15-14.12.18:665][802]EditorErrors: New page: Save Output
+[2018.10.15-14.12.18:665][802]EditorErrors: Warning: Error saving '../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap'
+[2018.10.15-14.12.24:959][324]LogSlate: Window 'Message Log' being destroyed
+[2018.10.15-14.12.24:964][324]LogSlate: Window 'Message Log' being destroyed
+[2018.10.15-14.12.28:964][524]LogSlate: Window 'Save Content' being destroyed
+[2018.10.15-14.12.31:438][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Plane001Mat" FILE="../../../../Ferris/Junior Project/PVR/Content/Plane001Mat.uasset" SILENT=true
+[2018.10.15-14.12.31:448][744]LogSavePackage: Moving '../../../../Ferris/Junior Project/PVR/Saved/Plane001Mat4CCC6CA74B9B7AC5089E759083B82E53.tmp' to '../../../../Ferris/Junior Project/PVR/Content/Plane001Mat.uasset'
+[2018.10.15-14.12.34:389][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GrandLedgeLocation" FILE="../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.15-14.12.34:656][  8]LogSavePackage: Moving '../../../../Ferris/Junior Project/PVR/Saved/GrandLedgeLocationFF0B09D84AFCF548684ED9A8782E4FC5.tmp' to '../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap'
+[2018.10.15-14.12.34:657][  8]LogFileManager: Warning: DeleteFile was unable to delete '../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap', retrying in .5s...
+[2018.10.15-14.12.35:157][  8]LogFileManager: Error: Error deleting file '../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap'.
+[2018.10.15-14.12.35:157][  8]LogSavePackage: Error: Error saving '../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap'
+[2018.10.15-14.12.35:167][  8]EditorErrors: New page: Save Output
+[2018.10.15-14.12.35:167][  8]EditorErrors: Warning: Error saving '../../../../Ferris/Junior Project/PVR/Content/GrandLedgeLocation.umap'
+[2018.10.15-14.12.44:572][828]LogSlate: Window 'Message Log' being destroyed
+[2018.10.15-14.12.44:578][828]LogSlate: Window 'Message Log' being destroyed
