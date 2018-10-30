@@ -1224,3 +1224,116 @@ LogInit: Object subsystem initialized
 [2018.10.29-23.57.33:041][347]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.10.29-23.57.35:779][347]LogSavePackage: Moving '../../../../../../Users/spagnuj/Desktop/PassportVR/Saved/10kNormalsMap2B435D654F57E922191C38B8D539F67E.tmp' to '../../../../../../Users/spagnuj/Desktop/PassportVR/Content/RockAssets/LedgeFormation/10k/10kNormalsMap.uasset'
 [2018.10.29-23.57.37:938][347]LogSavePackage: Moving '../../../../../../Users/spagnuj/Desktop/PassportVR/Saved/10kDiffuseMap034D296C408785E3C2379BB39AB89EAD.tmp' to '../../../../../../Users/spagnuj/Desktop/PassportVR/Content/RockAssets/LedgeFormation/10k/10kDiffuseMap.uasset'
+[2018.10.29-23.59.04:935][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-23.59.54:306][706]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2018.10.29-23.59.54:348][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-23.59.58:549][173]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.10.30-00.03.02:618][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.03.04:654][758]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.10.30-00.03.07:577][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.03.10:589][384]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.10.30-00.03.11:594][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.03.17:609][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.04.09:980][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.04.10:132][764]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2018.10.30-00.04.19:892][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.04.20:594][915]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.10.30-00.04.21:972][ 63]Cmd: DELETE
+[2018.10.30-00.04.21:972][ 63]Cmd: ACTOR DELETE
+[2018.10.30-00.04.21:980][ 63]LogEditorActor: Deleted Actor: InstancedFoliageActor
+[2018.10.30-00.04.22:026][ 63]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2018.10.30-00.04.22:937][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.10.30-00.04.24:195][295]Cmd: DELETE
+[2018.10.30-00.04.24:195][295]Cmd: ACTOR DELETE
+[2018.10.30-00.04.24:200][295]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.30-00.04.24:248][295]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.30-00.04.33:800][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.04.39:828][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.04.43:501][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.04.54:028][605]Cmd: TRANSACTION UNDO
+[2018.10.30-00.04.54:028][605]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.10.30-00.04.54:039][605]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2018.10.30-00.05.04:633][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.07.17:677][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.07.26:724][889]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-00.08.19:056][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.08.19:768][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Final20kLedge)
+[2018.10.30-00.08.23:603][177]Cmd: TRANSACTION UNDO
+[2018.10.30-00.08.23:603][177]LogEditorTransaction: Undo Move Actors
+[2018.10.30-00.08.29:444][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.09.21:076][249]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-00.09.51:588][436]Cmd: TRANSACTION UNDO
+[2018.10.30-00.09.51:588][436]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2018.10.30-00.09.51:598][436]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2018.10.30-00.10.29:473][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-00.11.21:870][468]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-00.11.39:732][391]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-00.12.10:465][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-00.12.13:660][188]Cmd: TRANSACTION UNDO
+[2018.10.30-00.12.13:660][188]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.10.30-00.12.13:670][188]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2018.10.30-00.12.14:871][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.12.44:133][576]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-00.12.48:402][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.12.50:271][271]Cmd: TRANSACTION UNDO
+[2018.10.30-00.12.50:271][271]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2018.10.30-00.12.50:283][271]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2018.10.30-00.12.52:167][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.12.54:312][716]Cmd: TRANSACTION UNDO
+[2018.10.30-00.12.54:312][716]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2018.10.30-00.12.55:275][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.13.08:144][236]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-00.13.13:040][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.13.48:554][769]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-00.13.54:349][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.14.05:661][695]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-00.14.08:281][993]Cmd: TRANSACTION UNDO
+[2018.10.30-00.14.08:281][993]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2018.10.30-00.14.08:291][993]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2018.10.30-00.14.09:261][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-00.14.21:369][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.14.33:745][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.14.34:497][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scree_001_A)
+[2018.10.30-00.14.37:312][181]Cmd: TRANSACTION UNDO
+[2018.10.30-00.14.37:312][181]LogEditorTransaction: Undo Clicking on Actors
+[2018.10.30-00.14.37:716][206]Cmd: TRANSACTION UNDO
+[2018.10.30-00.14.37:716][206]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2018.10.30-00.14.37:728][206]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2018.10.30-00.14.38:100][241]Cmd: TRANSACTION UNDO
+[2018.10.30-00.14.38:100][241]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2018.10.30-00.14.38:110][241]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2018.10.30-00.14.38:591][295]Cmd: TRANSACTION UNDO
+[2018.10.30-00.14.38:591][295]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.10.30-00.14.38:602][295]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2018.10.30-00.14.39:063][345]Cmd: TRANSACTION UNDO
+[2018.10.30-00.14.39:063][345]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.10.30-00.14.39:073][345]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2018.10.30-00.14.40:565][516]Cmd: TRANSACTION REDO
+[2018.10.30-00.14.40:565][516]LogEditorTransaction: Redo Landscape Editing: Sculpt
+[2018.10.30-00.14.41:255][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scree_001_A)
+[2018.10.30-00.14.42:153][682]Cmd: DELETE
+[2018.10.30-00.14.42:153][682]Cmd: ACTOR DELETE
+[2018.10.30-00.14.42:158][682]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.30-00.14.42:207][682]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.30-00.14.51:783][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.15.05:738][303]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-00.15.07:360][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.15.20:499][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.15.21:779][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Boulder05a)
+[2018.10.30-00.15.24:023][351]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Boulder05a3)
+[2018.10.30-00.15.24:567][403]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Boulder05a2)
+[2018.10.30-00.15.29:848][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Boulder05a)
+[2018.10.30-00.15.32:357][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Boulder05a3)
+[2018.10.30-00.15.35:141][542]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.10.30-00.15.35:702][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Boulder05a2)
+[2018.10.30-00.15.41:077][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Scree002b)
+[2018.10.30-00.16.07:807][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.30-00.16.51:044][644]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.30-00.16.51:270][644]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2018.10.30-00.16.51:413][644]LogSavePackage: Moving '../../../../../../Users/spagnuj/Desktop/PassportVR/Saved/GrandLedgeLocation_Auto2DF34CAB049B2C2E78F0E0A97AF03036F.tmp' to '../../../../../../Users/spagnuj/Desktop/PassportVR/Saved/Autosaves/Game/GrandLedgeLocation_Auto2.umap'
+[2018.10.30-00.16.51:427][644]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GrandLedgeLocation' took 0.347
+[2018.10.30-00.16.51:427][644]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.347
+[2018.10.30-00.18.56:383][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GrandLedgeLocation" FILE="../../../../../../Users/spagnuj/Desktop/PassportVR/Content/GrandLedgeLocation.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.30-00.18.56:725][446]LogSavePackage: Moving '../../../../../../Users/spagnuj/Desktop/PassportVR/Saved/GrandLedgeLocation3408B7174CD2FF09D5D060B7DF3ABA8E.tmp' to '../../../../../../Users/spagnuj/Desktop/PassportVR/Content/GrandLedgeLocation.umap'
+[2018.10.30-00.18.56:777][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GrandLedgeLocation_BuiltData" FILE="../../../../../../Users/spagnuj/Desktop/PassportVR/Content/GrandLedgeLocation_BuiltData.uasset" SILENT=true
+[2018.10.30-00.18.56:933][446]LogSavePackage: Moving '../../../../../../Users/spagnuj/Desktop/PassportVR/Saved/GrandLedgeLocation_BuiltDataA1E27DD649626F78C49CEAB45245516C.tmp' to '../../../../../../Users/spagnuj/Desktop/PassportVR/Content/GrandLedgeLocation_BuiltData.uasset'
