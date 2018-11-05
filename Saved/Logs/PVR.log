@@ -1501,3 +1501,468 @@ LogInit: Object subsystem initialized
 [2018.11.05-20.44.56:662][258]LogPlayLevel: Display: Shutting down PIE online subsystems
 [2018.11.05-20.44.56:663][258]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
 [2018.11.05-20.44.56:721][259]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2018.11.05-21.04.32:295][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeologyLab" FILE="../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/GeologyLab.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.05-21.04.32:714][764]LogSavePackage: Moving '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Saved/GeologyLabCD5844114E394E12CD144186B3A37DAC.tmp' to '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/GeologyLab.umap'
+[2018.11.05-21.04.32:798][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeologyLab_BuiltData" FILE="../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/GeologyLab_BuiltData.uasset" SILENT=true
+[2018.11.05-21.04.32:978][764]LogSavePackage: Moving '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Saved/GeologyLab_BuiltDataFD6A98DF4FD061006E565BB184A4AA17.tmp' to '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/GeologyLab_BuiltData.uasset'
+[2018.11.05-21.04.34:067][782]LogTemp: Repeating last play command: VR Preview
+[2018.11.05-21.04.34:097][782]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
+[2018.11.05-21.04.34:097][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.05-21.04.34:097][782]PIE: New page: PIE session: GeologyLab (Nov 5, 2018, 11:04:34 AM)
+[2018.11.05-21.04.34:097][782]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GeologyLab
+[2018.11.05-21.04.34:114][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016851s)
+[2018.11.05-21.04.34:115][782]LogAIModule: Creating AISystem for world GeologyLab
+[2018.11.05-21.04.34:115][782]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2018.11.05-21.04.34:115][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GeologyLab.GeologyLab to /Game/UEDPIE_0_GeologyLab.GeologyLab (0.018114s)
+[2018.11.05-21.04.34:174][782]LogInit: XAudio2 using 'Speakers (4- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.05-21.04.34:187][782]LogInit: FAudioDevice initialized.
+[2018.11.05-21.04.34:212][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.05-21.04.34:318][782]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.11.05-21.04.34:318][782]LogLoad: Game class is 'GameModeBase'
+[2018.11.05-21.04.34:321][782]LogWorld: Bringing World /Game/UEDPIE_0_GeologyLab.GeologyLab up for play (max tick rate 0) at 2018.11.05-16.04.34
+[2018.11.05-21.04.34:321][782]LogWorld: Bringing up level for play took: 0.002964
+[2018.11.05-21.04.34:346][782]PIE: Play in editor start time for /Game/UEDPIE_0_GeologyLab -0.006
+[2018.11.05-21.04.34:346][782]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
+[2018.11.05-21.07.24:650][414]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.11.05-21.07.24:650][414]LogBlueprintUserMessages: [VRPawn] failed
+[2018.11.05-21.07.42:944][233]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.11.05-21.07.42:944][233]LogBlueprintUserMessages: [VRPawn] failed
+[2018.11.05-21.07.44:909][321]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.11.05-21.07.44:909][321]LogBlueprintUserMessages: [VRPawn] failed
+[2018.11.05-21.07.45:357][341]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.11.05-21.07.45:357][341]LogBlueprintUserMessages: [VRPawn] failed
+[2018.11.05-21.07.46:004][370]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.11.05-21.07.46:004][370]LogBlueprintUserMessages: [VRPawn] failed
+[2018.11.05-21.07.46:562][395]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.11.05-21.07.46:563][395]LogBlueprintUserMessages: [VRPawn] failed
+[2018.11.05-21.07.47:010][415]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.11.05-21.07.50:025][550]LogNet: Browse: /Game/GrandLedgeLocation
+[2018.11.05-21.07.50:047][550]LogLoad: LoadMap: /Game/GrandLedgeLocation
+[2018.11.05-21.07.50:133][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Perlin_Noise_M'
+[2018.11.05-21.07.50:133][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/M_Water_Ocean.uasset.
+[2018.11.05-21.07.50:133][550]LoadErrors: Error: /Game/Materials/M_Water_Ocean : Can't find file for asset. /Game/Textures/T_Perlin_Noise_M
+[2018.11.05-21.07.50:134][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_M'
+[2018.11.05-21.07.50:134][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_M' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/M_Water_Ocean.uasset.
+[2018.11.05-21.07.50:134][550]LoadErrors: Error: /Game/Materials/M_Water_Ocean : Can't find file for asset. /Game/Textures/T_Water_M
+[2018.11.05-21.07.50:134][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_N'
+[2018.11.05-21.07.50:134][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/M_Water_Ocean.uasset.
+[2018.11.05-21.07.50:134][550]LoadErrors: Error: /Game/Materials/M_Water_Ocean : Can't find file for asset. /Game/Textures/T_Water_N
+[2018.11.05-21.07.50:135][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Perlin_Noise_M'
+[2018.11.05-21.07.50:135][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/M_Water_Ocean.uasset.
+[2018.11.05-21.07.50:135][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_M'
+[2018.11.05-21.07.50:136][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_M' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/M_Water_Ocean.uasset.
+[2018.11.05-21.07.50:136][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_N'
+[2018.11.05-21.07.50:136][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/M_Water_Ocean.uasset.
+[2018.11.05-21.07.50:147][550]LogLinker: Warning: Can't find file '/Game/Textures/T_CliffRock_03_N'
+[2018.11.05-21.07.50:147][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_CliffRock_03_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/M_Photoscan_Master.uasset.
+[2018.11.05-21.07.50:147][550]LoadErrors: Error: /Game/Materials/M_Photoscan_Master : Can't find file for asset. /Game/Textures/T_CliffRock_03_N
+[2018.11.05-21.07.50:147][550]LogLinker: Warning: Can't find file '/Game/Textures/T_CliffRockTile_03_D'
+[2018.11.05-21.07.50:147][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_CliffRockTile_03_D' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/M_Photoscan_Master.uasset.
+[2018.11.05-21.07.50:148][550]LoadErrors: Error: /Game/Materials/M_Photoscan_Master : Can't find file for asset. /Game/Textures/T_CliffRockTile_03_D
+[2018.11.05-21.07.50:149][550]LogLinker: Warning: Can't find file '/Game/Textures/T_CliffRock_03_N'
+[2018.11.05-21.07.50:149][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_CliffRock_03_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/M_Photoscan_Master.uasset.
+[2018.11.05-21.07.50:149][550]LogLinker: Warning: Can't find file '/Game/Textures/T_CliffRockTile_03_D'
+[2018.11.05-21.07.50:149][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_CliffRockTile_03_D' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/M_Photoscan_Master.uasset.
+[2018.11.05-21.07.50:150][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Cliff01_D_CC_R'
+[2018.11.05-21.07.50:150][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Cliff01_D_CC_R' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Cliff01.uasset.
+[2018.11.05-21.07.50:150][550]LoadErrors: Error: /Game/Materials/MI_Cliff01 : Can't find file for asset. /Game/Textures/T_Cliff01_D_CC_R
+[2018.11.05-21.07.50:151][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Cliff01_N'
+[2018.11.05-21.07.50:151][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Cliff01_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Cliff01.uasset.
+[2018.11.05-21.07.50:151][550]LoadErrors: Error: /Game/Materials/MI_Cliff01 : Can't find file for asset. /Game/Textures/T_Cliff01_N
+[2018.11.05-21.07.50:151][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Cliff01_D_CC_R'
+[2018.11.05-21.07.50:151][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Cliff01_D_CC_R' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Cliff01.uasset.
+[2018.11.05-21.07.50:152][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Cliff01_N'
+[2018.11.05-21.07.50:152][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Cliff01_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Cliff01.uasset.
+[2018.11.05-21.07.50:165][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_LimbTile_02_D_Tex'
+[2018.11.05-21.07.50:165][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_LimbTile_02_D_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_01_Branches_2_Mat.uasset.
+[2018.11.05-21.07.50:165][550]LoadErrors: Error: /Game/Materials/HillTree_01_Branches_2_Mat : Can't find file for asset. /Game/Textures/T_Craghead_Oak_LimbTile_02_D_Tex
+[2018.11.05-21.07.50:166][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_LimbTile_02_N_Tex'
+[2018.11.05-21.07.50:166][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_LimbTile_02_N_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_01_Branches_2_Mat.uasset.
+[2018.11.05-21.07.50:166][550]LoadErrors: Error: /Game/Materials/HillTree_01_Branches_2_Mat : Can't find file for asset. /Game/Textures/T_Craghead_Oak_LimbTile_02_N_Tex
+[2018.11.05-21.07.50:167][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_LimbTile_02_D_Tex'
+[2018.11.05-21.07.50:167][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_LimbTile_02_D_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_01_Branches_2_Mat.uasset.
+[2018.11.05-21.07.50:167][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_LimbTile_02_N_Tex'
+[2018.11.05-21.07.50:167][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_LimbTile_02_N_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_01_Branches_2_Mat.uasset.
+[2018.11.05-21.07.50:169][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_Tile_01_D_Tex'
+[2018.11.05-21.07.50:169][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_Tile_01_D_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_01_Branches_Mat.uasset.
+[2018.11.05-21.07.50:170][550]LoadErrors: Error: /Game/Materials/HillTree_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_Craghead_Oak_Tile_01_D_Tex
+[2018.11.05-21.07.50:170][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_Tile_01_N_Tex'
+[2018.11.05-21.07.50:170][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_Tile_01_N_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_01_Branches_Mat.uasset.
+[2018.11.05-21.07.50:170][550]LoadErrors: Error: /Game/Materials/HillTree_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_Craghead_Oak_Tile_01_N_Tex
+[2018.11.05-21.07.50:170][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_TileMoss_01_D_Tex'
+[2018.11.05-21.07.50:171][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_TileMoss_01_D_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_01_Branches_Mat.uasset.
+[2018.11.05-21.07.50:171][550]LoadErrors: Error: /Game/Materials/HillTree_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_Craghead_Oak_TileMoss_01_D_Tex
+[2018.11.05-21.07.50:171][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_Tile_01_D_Tex'
+[2018.11.05-21.07.50:171][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_Tile_01_D_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_01_Branches_Mat.uasset.
+[2018.11.05-21.07.50:172][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_Tile_01_N_Tex'
+[2018.11.05-21.07.50:172][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_Tile_01_N_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_01_Branches_Mat.uasset.
+[2018.11.05-21.07.50:172][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Craghead_Oak_TileMoss_01_D_Tex'
+[2018.11.05-21.07.50:172][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Craghead_Oak_TileMoss_01_D_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_01_Branches_Mat.uasset.
+[2018.11.05-21.07.50:177][550]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_01_Atlas_Normal_Tex'
+[2018.11.05-21.07.50:178][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_01_Atlas_Normal_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_01_Leaves_Mat2.uasset.
+[2018.11.05-21.07.50:178][550]LoadErrors: Error: /Game/Materials/HillTree_01_Leaves_Mat2 : Can't find file for asset. /Game/Textures/HillTree_01_Atlas_Normal_Tex
+[2018.11.05-21.07.50:178][550]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_01_Atlas_Specular_Tex'
+[2018.11.05-21.07.50:178][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_01_Atlas_Specular_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_01_Leaves_Mat2.uasset.
+[2018.11.05-21.07.50:178][550]LoadErrors: Error: /Game/Materials/HillTree_01_Leaves_Mat2 : Can't find file for asset. /Game/Textures/HillTree_01_Atlas_Specular_Tex
+[2018.11.05-21.07.50:179][550]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_01_Atlas_Tex'
+[2018.11.05-21.07.50:179][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_01_Atlas_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_01_Leaves_Mat2.uasset.
+[2018.11.05-21.07.50:179][550]LoadErrors: Error: /Game/Materials/HillTree_01_Leaves_Mat2 : Can't find file for asset. /Game/Textures/HillTree_01_Atlas_Tex
+[2018.11.05-21.07.50:179][550]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_01_Atlas_Normal_Tex'
+[2018.11.05-21.07.50:179][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_01_Atlas_Normal_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_01_Leaves_Mat2.uasset.
+[2018.11.05-21.07.50:180][550]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_01_Atlas_Specular_Tex'
+[2018.11.05-21.07.50:180][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_01_Atlas_Specular_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_01_Leaves_Mat2.uasset.
+[2018.11.05-21.07.50:180][550]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_01_Atlas_Tex'
+[2018.11.05-21.07.50:181][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_01_Atlas_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_01_Leaves_Mat2.uasset.
+[2018.11.05-21.07.50:188][550]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Normal_Tex'
+[2018.11.05-21.07.50:188][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Normal_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_Tall_01_Billboard_Mat.uasset.
+[2018.11.05-21.07.50:188][550]LoadErrors: Error: /Game/Materials/HillTree_Tall_01_Billboard_Mat : Can't find file for asset. /Game/Textures/HillTree_Tall_01_Atlas_Billboards_Normal_Tex
+[2018.11.05-21.07.50:189][550]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Tex'
+[2018.11.05-21.07.50:189][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_Tall_01_Billboard_Mat.uasset.
+[2018.11.05-21.07.50:189][550]LoadErrors: Error: /Game/Materials/HillTree_Tall_01_Billboard_Mat : Can't find file for asset. /Game/Textures/HillTree_Tall_01_Atlas_Billboards_Tex
+[2018.11.05-21.07.50:189][550]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Normal_Tex'
+[2018.11.05-21.07.50:190][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Normal_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_Tall_01_Billboard_Mat.uasset.
+[2018.11.05-21.07.50:190][550]LogLinker: Warning: Can't find file '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Tex'
+[2018.11.05-21.07.50:190][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/HillTree_Tall_01_Atlas_Billboards_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/HillTree_Tall_01_Billboard_Mat.uasset.
+[2018.11.05-21.07.50:195][550]LogLinker: Warning: Can't find file '/Game/Textures/texture_0'
+[2018.11.05-21.07.50:196][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/texture_0' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/_texturedMeshTextureAtlas_0.uasset.
+[2018.11.05-21.07.50:196][550]LoadErrors: Error: /Game/Materials/_texturedMeshTextureAtlas_0 : Can't find file for asset. /Game/Textures/texture_0
+[2018.11.05-21.07.50:196][550]LogLinker: Warning: Can't find file '/Game/Textures/texture_0'
+[2018.11.05-21.07.50:196][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/texture_0' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/_texturedMeshTextureAtlas_0.uasset.
+[2018.11.05-21.07.50:206][550]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Billboards_Normal_Tex'
+[2018.11.05-21.07.50:206][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Billboards_Normal_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Billboard_Mat.uasset.
+[2018.11.05-21.07.50:206][550]LoadErrors: Error: /Game/Materials/ScotsPine_01_Billboard_Mat : Can't find file for asset. /Game/Textures/ScotsPine_01_Atlas_Billboards_Normal_Tex
+[2018.11.05-21.07.50:206][550]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Billboards_Tex'
+[2018.11.05-21.07.50:207][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Billboards_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Billboard_Mat.uasset.
+[2018.11.05-21.07.50:207][550]LoadErrors: Error: /Game/Materials/ScotsPine_01_Billboard_Mat : Can't find file for asset. /Game/Textures/ScotsPine_01_Atlas_Billboards_Tex
+[2018.11.05-21.07.50:207][550]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Billboards_Normal_Tex'
+[2018.11.05-21.07.50:207][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Billboards_Normal_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Billboard_Mat.uasset.
+[2018.11.05-21.07.50:208][550]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Billboards_Tex'
+[2018.11.05-21.07.50:208][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Billboards_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Billboard_Mat.uasset.
+[2018.11.05-21.07.50:210][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_N_Tex'
+[2018.11.05-21.07.50:211][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_N_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Branches_2_Mat.uasset.
+[2018.11.05-21.07.50:211][550]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_2_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_01_N_Tex
+[2018.11.05-21.07.50:211][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_Tex'
+[2018.11.05-21.07.50:211][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Branches_2_Mat.uasset.
+[2018.11.05-21.07.50:211][550]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_2_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_01_Tex
+[2018.11.05-21.07.50:212][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_D_Tex'
+[2018.11.05-21.07.50:212][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_D_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Branches_2_Mat.uasset.
+[2018.11.05-21.07.50:212][550]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_2_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_03_D_Tex
+[2018.11.05-21.07.50:212][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_N_Tex'
+[2018.11.05-21.07.50:212][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_N_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Branches_2_Mat.uasset.
+[2018.11.05-21.07.50:212][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_Tex'
+[2018.11.05-21.07.50:213][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Branches_2_Mat.uasset.
+[2018.11.05-21.07.50:213][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_D_Tex'
+[2018.11.05-21.07.50:214][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_D_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Branches_2_Mat.uasset.
+[2018.11.05-21.07.50:215][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_N_Tex'
+[2018.11.05-21.07.50:216][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_N_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Branches_Mat.uasset.
+[2018.11.05-21.07.50:216][550]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_01_N_Tex
+[2018.11.05-21.07.50:216][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_Tex'
+[2018.11.05-21.07.50:216][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Branches_Mat.uasset.
+[2018.11.05-21.07.50:216][550]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_01_Tex
+[2018.11.05-21.07.50:217][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_D_Tex'
+[2018.11.05-21.07.50:217][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_D_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Branches_Mat.uasset.
+[2018.11.05-21.07.50:217][550]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_03_D_Tex
+[2018.11.05-21.07.50:217][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_N'
+[2018.11.05-21.07.50:217][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Branches_Mat.uasset.
+[2018.11.05-21.07.50:217][550]LoadErrors: Error: /Game/Materials/ScotsPine_01_Branches_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_03_N
+[2018.11.05-21.07.50:218][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_N_Tex'
+[2018.11.05-21.07.50:218][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_N_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Branches_Mat.uasset.
+[2018.11.05-21.07.50:218][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_01_Tex'
+[2018.11.05-21.07.50:219][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_01_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Branches_Mat.uasset.
+[2018.11.05-21.07.50:219][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_D_Tex'
+[2018.11.05-21.07.50:219][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_D_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Branches_Mat.uasset.
+[2018.11.05-21.07.50:220][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_N'
+[2018.11.05-21.07.50:220][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Branches_Mat.uasset.
+[2018.11.05-21.07.50:222][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_D_Tex'
+[2018.11.05-21.07.50:222][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_D_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Fronds_Mat.uasset.
+[2018.11.05-21.07.50:222][550]LoadErrors: Error: /Game/Materials/ScotsPine_01_Fronds_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_03_D_Tex
+[2018.11.05-21.07.50:222][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_N'
+[2018.11.05-21.07.50:222][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Fronds_Mat.uasset.
+[2018.11.05-21.07.50:223][550]LoadErrors: Error: /Game/Materials/ScotsPine_01_Fronds_Mat : Can't find file for asset. /Game/Textures/T_ScotsPine_Bark_03_N
+[2018.11.05-21.07.50:223][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_D_Tex'
+[2018.11.05-21.07.50:223][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_D_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Fronds_Mat.uasset.
+[2018.11.05-21.07.50:223][550]LogLinker: Warning: Can't find file '/Game/Textures/T_ScotsPine_Bark_03_N'
+[2018.11.05-21.07.50:224][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_ScotsPine_Bark_03_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Fronds_Mat.uasset.
+[2018.11.05-21.07.50:226][550]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Normal_Tex'
+[2018.11.05-21.07.50:227][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Normal_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Leaves_Mat.uasset.
+[2018.11.05-21.07.50:227][550]LoadErrors: Error: /Game/Materials/ScotsPine_01_Leaves_Mat : Can't find file for asset. /Game/Textures/ScotsPine_01_Atlas_Normal_Tex
+[2018.11.05-21.07.50:227][550]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Specular_Tex'
+[2018.11.05-21.07.50:227][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Specular_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Leaves_Mat.uasset.
+[2018.11.05-21.07.50:227][550]LoadErrors: Error: /Game/Materials/ScotsPine_01_Leaves_Mat : Can't find file for asset. /Game/Textures/ScotsPine_01_Atlas_Specular_Tex
+[2018.11.05-21.07.50:228][550]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Tex'
+[2018.11.05-21.07.50:228][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Leaves_Mat.uasset.
+[2018.11.05-21.07.50:228][550]LoadErrors: Error: /Game/Materials/ScotsPine_01_Leaves_Mat : Can't find file for asset. /Game/Textures/ScotsPine_01_Atlas_Tex
+[2018.11.05-21.07.50:228][550]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Normal_Tex'
+[2018.11.05-21.07.50:228][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Normal_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Leaves_Mat.uasset.
+[2018.11.05-21.07.50:228][550]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Specular_Tex'
+[2018.11.05-21.07.50:229][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Specular_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Leaves_Mat.uasset.
+[2018.11.05-21.07.50:229][550]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPine_01_Atlas_Tex'
+[2018.11.05-21.07.50:230][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPine_01_Atlas_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPine_01_Leaves_Mat.uasset.
+[2018.11.05-21.07.50:238][550]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Normal_Tex'
+[2018.11.05-21.07.50:238][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Normal_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPineTall_01_Billboard_Mat.uasset.
+[2018.11.05-21.07.50:239][550]LoadErrors: Error: /Game/Materials/ScotsPineTall_01_Billboard_Mat : Can't find file for asset. /Game/Textures/ScotsPineTall_01_Atlas_Billboards_Normal_Tex
+[2018.11.05-21.07.50:239][550]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Tex'
+[2018.11.05-21.07.50:239][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPineTall_01_Billboard_Mat.uasset.
+[2018.11.05-21.07.50:239][550]LoadErrors: Error: /Game/Materials/ScotsPineTall_01_Billboard_Mat : Can't find file for asset. /Game/Textures/ScotsPineTall_01_Atlas_Billboards_Tex
+[2018.11.05-21.07.50:240][550]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Normal_Tex'
+[2018.11.05-21.07.50:240][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Normal_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPineTall_01_Billboard_Mat.uasset.
+[2018.11.05-21.07.50:240][550]LogLinker: Warning: Can't find file '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Tex'
+[2018.11.05-21.07.50:240][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/ScotsPineTall_01_Atlas_Billboards_Tex' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/ScotsPineTall_01_Billboard_Mat.uasset.
+[2018.11.05-21.07.50:247][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree_001_D_CC'
+[2018.11.05-21.07.50:247][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree_001_D_CC' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Scree_001_CC.uasset.
+[2018.11.05-21.07.50:247][550]LoadErrors: Error: /Game/Materials/MI_Scree_001_CC : Can't find file for asset. /Game/Textures/T_Scree_001_D_CC
+[2018.11.05-21.07.50:247][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree_001_N'
+[2018.11.05-21.07.50:248][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree_001_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Scree_001_CC.uasset.
+[2018.11.05-21.07.50:248][550]LoadErrors: Error: /Game/Materials/MI_Scree_001_CC : Can't find file for asset. /Game/Textures/T_Scree_001_N
+[2018.11.05-21.07.50:248][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree_001_D_CC'
+[2018.11.05-21.07.50:248][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree_001_D_CC' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Scree_001_CC.uasset.
+[2018.11.05-21.07.50:249][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree_001_N'
+[2018.11.05-21.07.50:249][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree_001_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Scree_001_CC.uasset.
+[2018.11.05-21.07.50:257][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Boulder05_D_CC_R'
+[2018.11.05-21.07.50:257][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Boulder05_D_CC_R' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Boulder05a.uasset.
+[2018.11.05-21.07.50:257][550]LoadErrors: Error: /Game/Materials/MI_Boulder05a : Can't find file for asset. /Game/Textures/T_Boulder05_D_CC_R
+[2018.11.05-21.07.50:257][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Boulder05_N'
+[2018.11.05-21.07.50:257][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Boulder05_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Boulder05a.uasset.
+[2018.11.05-21.07.50:258][550]LoadErrors: Error: /Game/Materials/MI_Boulder05a : Can't find file for asset. /Game/Textures/T_Boulder05_N
+[2018.11.05-21.07.50:258][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Boulder05_D_CC_R'
+[2018.11.05-21.07.50:258][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Boulder05_D_CC_R' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Boulder05a.uasset.
+[2018.11.05-21.07.50:258][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Boulder05_N'
+[2018.11.05-21.07.50:259][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Boulder05_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Boulder05a.uasset.
+[2018.11.05-21.07.50:262][550]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01'
+[2018.11.05-21.07.50:262][550]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Meshes/SM_Cliff01.uasset.
+[2018.11.05-21.07.50:262][550]LoadErrors: Error: /Game/Meshes/SM_Cliff01 : Can't find file for asset. /Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01
+[2018.11.05-21.07.50:263][550]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01'
+[2018.11.05-21.07.50:263][550]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Cliffs/Cliff01/MI_Cliff01' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Meshes/SM_Cliff01.uasset.
+[2018.11.05-21.07.50:277][550]LogLinker: Warning: Can't find file '/Game/Textures/T_FieldGrass_01_D'
+[2018.11.05-21.07.50:277][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_FieldGrass_01_D' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/M_FieldGrass_01.uasset.
+[2018.11.05-21.07.50:277][550]LoadErrors: Error: /Game/Materials/M_FieldGrass_01 : Can't find file for asset. /Game/Textures/T_FieldGrass_01_D
+[2018.11.05-21.07.50:278][550]LogLinker: Warning: Can't find file '/Game/Textures/T_FieldGrass_02_M'
+[2018.11.05-21.07.50:278][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_FieldGrass_02_M' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/M_FieldGrass_01.uasset.
+[2018.11.05-21.07.50:278][550]LoadErrors: Error: /Game/Materials/M_FieldGrass_01 : Can't find file for asset. /Game/Textures/T_FieldGrass_02_M
+[2018.11.05-21.07.50:278][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_N'
+[2018.11.05-21.07.50:279][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/M_FieldGrass_01.uasset.
+[2018.11.05-21.07.50:279][550]LoadErrors: Error: /Game/Materials/M_FieldGrass_01 : Can't find file for asset. /Game/Textures/T_Water_N
+[2018.11.05-21.07.50:279][550]LogLinker: Warning: Can't find file '/Game/Textures/T_FieldGrass_01_D'
+[2018.11.05-21.07.50:279][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_FieldGrass_01_D' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/M_FieldGrass_01.uasset.
+[2018.11.05-21.07.50:280][550]LogLinker: Warning: Can't find file '/Game/Textures/T_FieldGrass_02_M'
+[2018.11.05-21.07.50:280][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_FieldGrass_02_M' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/M_FieldGrass_01.uasset.
+[2018.11.05-21.07.50:280][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Water_N'
+[2018.11.05-21.07.50:280][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Water_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/M_FieldGrass_01.uasset.
+[2018.11.05-21.07.50:290][550]LogLinker: Warning: Can't find file '/Game/Textures/T_River_Rock_01_D_CC_R'
+[2018.11.05-21.07.50:290][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_River_Rock_01_D_CC_R' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_River_Rock_01.uasset.
+[2018.11.05-21.07.50:290][550]LoadErrors: Error: /Game/Materials/MI_River_Rock_01 : Can't find file for asset. /Game/Textures/T_River_Rock_01_D_CC_R
+[2018.11.05-21.07.50:291][550]LogLinker: Warning: Can't find file '/Game/Textures/T_River_Rock_01_N'
+[2018.11.05-21.07.50:291][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_River_Rock_01_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_River_Rock_01.uasset.
+[2018.11.05-21.07.50:291][550]LoadErrors: Error: /Game/Materials/MI_River_Rock_01 : Can't find file for asset. /Game/Textures/T_River_Rock_01_N
+[2018.11.05-21.07.50:291][550]LogLinker: Warning: Can't find file '/Game/Textures/T_River_Rock_01_D_CC_R'
+[2018.11.05-21.07.50:292][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_River_Rock_01_D_CC_R' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_River_Rock_01.uasset.
+[2018.11.05-21.07.50:292][550]LogLinker: Warning: Can't find file '/Game/Textures/T_River_Rock_01_N'
+[2018.11.05-21.07.50:292][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_River_Rock_01_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_River_Rock_01.uasset.
+[2018.11.05-21.07.50:297][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree002_D_R'
+[2018.11.05-21.07.50:298][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree002_D_R' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Scree002_NEW.uasset.
+[2018.11.05-21.07.50:298][550]LoadErrors: Error: /Game/Materials/MI_Scree002_NEW : Can't find file for asset. /Game/Textures/T_Scree002_D_R
+[2018.11.05-21.07.50:298][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree002_N'
+[2018.11.05-21.07.50:298][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree002_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Scree002_NEW.uasset.
+[2018.11.05-21.07.50:299][550]LoadErrors: Error: /Game/Materials/MI_Scree002_NEW : Can't find file for asset. /Game/Textures/T_Scree002_N
+[2018.11.05-21.07.50:299][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree002_D_R'
+[2018.11.05-21.07.50:299][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree002_D_R' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Scree002_NEW.uasset.
+[2018.11.05-21.07.50:299][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Scree002_N'
+[2018.11.05-21.07.50:300][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Scree002_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Scree002_NEW.uasset.
+[2018.11.05-21.07.50:304][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Vegetation_Debris_002_D_R'
+[2018.11.05-21.07.50:305][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Vegetation_Debris_002_D_R' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Vegetation_Debris_002.uasset.
+[2018.11.05-21.07.50:305][550]LoadErrors: Error: /Game/Materials/MI_Vegetation_Debris_002 : Can't find file for asset. /Game/Textures/T_Vegetation_Debris_002_D_R
+[2018.11.05-21.07.50:305][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Vegetation_Debris_002_N'
+[2018.11.05-21.07.50:305][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Vegetation_Debris_002_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Vegetation_Debris_002.uasset.
+[2018.11.05-21.07.50:305][550]LoadErrors: Error: /Game/Materials/MI_Vegetation_Debris_002 : Can't find file for asset. /Game/Textures/T_Vegetation_Debris_002_N
+[2018.11.05-21.07.50:306][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Vegetation_Debris_002_D_R'
+[2018.11.05-21.07.50:306][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Vegetation_Debris_002_D_R' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Vegetation_Debris_002.uasset.
+[2018.11.05-21.07.50:306][550]LogLinker: Warning: Can't find file '/Game/Textures/T_Vegetation_Debris_002_N'
+[2018.11.05-21.07.50:307][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/T_Vegetation_Debris_002_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Vegetation_Debris_002.uasset.
+[2018.11.05-21.07.50:312][550]LogLinker: Warning: Can't find file '/Game/Textures/D_Tree_Stump_01_D_R'
+[2018.11.05-21.07.50:312][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/D_Tree_Stump_01_D_R' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Tree_Stump_01.uasset.
+[2018.11.05-21.07.50:312][550]LoadErrors: Error: /Game/Materials/MI_Tree_Stump_01 : Can't find file for asset. /Game/Textures/D_Tree_Stump_01_D_R
+[2018.11.05-21.07.50:312][550]LogLinker: Warning: Can't find file '/Game/Textures/D_Tree_Stump_01_N'
+[2018.11.05-21.07.50:313][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/D_Tree_Stump_01_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Tree_Stump_01.uasset.
+[2018.11.05-21.07.50:313][550]LoadErrors: Error: /Game/Materials/MI_Tree_Stump_01 : Can't find file for asset. /Game/Textures/D_Tree_Stump_01_N
+[2018.11.05-21.07.50:313][550]LogLinker: Warning: Can't find file '/Game/Textures/D_Tree_Stump_01_D_R'
+[2018.11.05-21.07.50:313][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/D_Tree_Stump_01_D_R' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Tree_Stump_01.uasset.
+[2018.11.05-21.07.50:314][550]LogLinker: Warning: Can't find file '/Game/Textures/D_Tree_Stump_01_N'
+[2018.11.05-21.07.50:314][550]LogLinker: Warning: Can't find file for asset '/Game/Textures/D_Tree_Stump_01_N' while loading ../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Materials/MI_Tree_Stump_01.uasset.
+[2018.11.05-21.07.50:440][550]LogAIModule: Creating AISystem for world GrandLedgeLocation
+[2018.11.05-21.07.50:441][550]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.11.05-21.07.50:441][550]LogLoad: Game class is 'GameModeBase'
+[2018.11.05-21.07.50:450][550]LogWorld: Bringing World /Game/UEDPIE_0_GrandLedgeLocation.GrandLedgeLocation up for play (max tick rate 0) at 2018.11.05-16.07.50
+[2018.11.05-21.07.50:451][550]LogWorld: Bringing up level for play took: 0.009192
+[2018.11.05-21.07.50:451][550]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.05-21.07.50:455][550]LogLoad: Took 0.407771 seconds to LoadMap(/Game/GrandLedgeLocation)
+[2018.11.05-21.08.06:411][ 83]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.11.05-21.08.09:427][218]LogNet: Browse: /Game/GeologyLab
+[2018.11.05-21.08.09:447][218]LogLoad: LoadMap: /Game/GeologyLab
+[2018.11.05-21.08.09:488][218]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GeologyLab
+[2018.11.05-21.08.09:504][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015914s)
+[2018.11.05-21.08.09:505][218]LogAIModule: Creating AISystem for world GeologyLab
+[2018.11.05-21.08.09:505][218]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2018.11.05-21.08.09:505][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GeologyLab.GeologyLab to /Game/UEDPIE_0_GeologyLab.GeologyLab (0.016937s)
+[2018.11.05-21.08.09:505][218]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.11.05-21.08.09:505][218]LogLoad: Game class is 'GameModeBase'
+[2018.11.05-21.08.09:508][218]LogWorld: Bringing World /Game/UEDPIE_0_GeologyLab.GeologyLab up for play (max tick rate 0) at 2018.11.05-16.08.09
+[2018.11.05-21.08.09:509][218]LogWorld: Bringing up level for play took: 0.002559
+[2018.11.05-21.08.09:509][218]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.05-21.08.09:513][218]LogLoad: Took 0.065592 seconds to LoadMap(/Game/UEDPIE_0_GeologyLab)
+[2018.11.05-21.10.44:806][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.05-21.11.07:804][901]Cmd: SELECT NONE
+[2018.11.05-21.11.12:320][103]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
+[2018.11.05-21.11.12:425][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.05-21.11.12:454][103]LogSlate: Window 'PVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.05-21.11.12:491][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.05-21.11.12:491][103]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
+[2018.11.05-21.11.12:548][104]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2018.11.05-21.11.19:290][187]LogEditorViewport: Clicking on Actor (LMB): BP_Rock3_C (BP_Rock3)
+[2018.11.05-21.11.26:499][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.05-21.11.27:262][286]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RockAssets/Rock3/BP_Rock3.BP_Rock3
+[2018.11.05-21.11.45:770][599]LogEditorTransaction: Undo Create Convex Collision
+[2018.11.05-21.11.50:799][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.05-21.12.04:191][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.05-21.12.16:450][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.05-21.12.22:152][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.05-21.12.36:919][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.05-21.12.37:116][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RockAssets/Coal2/FinalLPCoal2" FILE="../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/RockAssets/Coal2/FinalLPCoal2.uasset" SILENT=true
+[2018.11.05-21.12.37:165][472]LogSavePackage: Moving '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Saved/FinalLPCoal25BD0242A43D4D109DE2486B0AEB0778F.tmp' to '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/RockAssets/Coal2/FinalLPCoal2.uasset'
+[2018.11.05-21.12.58:005][720]LogSlate: Window 'BP_Rock3' being destroyed
+[2018.11.05-21.12.58:065][720]LogSlate: Window 'BP_Rock3' being destroyed
+[2018.11.05-21.13.11:929][587]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2018.11.05-21.13.49:267][793]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2018.11.05-21.14.23:344][470]LogTemp: Repeating last play command: VR Preview
+[2018.11.05-21.14.23:379][470]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
+[2018.11.05-21.14.23:379][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.05-21.14.23:379][470]PIE: New page: PIE session: GeologyLab (Nov 5, 2018, 11:14:23 AM)
+[2018.11.05-21.14.23:379][470]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GeologyLab
+[2018.11.05-21.14.23:396][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016702s)
+[2018.11.05-21.14.23:397][470]LogAIModule: Creating AISystem for world GeologyLab
+[2018.11.05-21.14.23:397][470]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.11.05-21.14.23:397][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GeologyLab.GeologyLab to /Game/UEDPIE_0_GeologyLab.GeologyLab (0.017676s)
+[2018.11.05-21.14.23:461][470]LogInit: XAudio2 using 'Speakers (4- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.05-21.14.23:473][470]LogInit: FAudioDevice initialized.
+[2018.11.05-21.14.23:496][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.05-21.14.23:653][470]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.11.05-21.14.23:653][470]LogLoad: Game class is 'GameModeBase'
+[2018.11.05-21.14.23:657][470]LogWorld: Bringing World /Game/UEDPIE_0_GeologyLab.GeologyLab up for play (max tick rate 0) at 2018.11.05-16.14.23
+[2018.11.05-21.14.23:657][470]LogWorld: Bringing up level for play took: 0.002698
+[2018.11.05-21.14.23:692][470]PIE: Play in editor start time for /Game/UEDPIE_0_GeologyLab -0.664
+[2018.11.05-21.14.23:692][470]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
+[2018.11.05-21.14.31:498][823]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2018.11.05-21.14.31:498][823]LogBlueprintUserMessages: [VRPawn] failed
+[2018.11.05-21.16.45:149][802]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
+[2018.11.05-21.16.45:264][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.05-21.16.45:344][802]LogSlate: Window 'PVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.05-21.16.45:408][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.05-21.16.45:409][802]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
+[2018.11.05-21.16.45:910][803]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2018.11.05-21.24.54:003][164]LogEditorTransaction: Undo Move Nodes
+[2018.11.05-21.28.17:206][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeologyLab" FILE="../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Saved/Autosaves/Game/GeologyLab_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.11.05-21.28.17:600][288]LogSavePackage: Moving '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Saved/GeologyLab_Auto398C8FD8D43737346205AE4B393FB94CC.tmp' to '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Saved/Autosaves/Game/GeologyLab_Auto3.umap'
+[2018.11.05-21.28.17:614][288]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GeologyLab' took 0.451
+[2018.11.05-21.28.17:614][288]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.451
+[2018.11.05-21.28.17:616][288]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2018.11.05-21.28.17:616][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2018.11.05-21.28.17:872][288]LogSavePackage: Moving '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Saved/MotionControllerPawn_Auto38F42E49D44FE77FDFB4F3D801956499B.tmp' to '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto3.uasset'
+[2018.11.05-21.28.17:876][288]LogFileHelpers: Auto-saving content packages took 0.261
+[2018.11.05-21.31.25:603][ 79]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.11.05-21.32.56:360][383]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.05-21.33.30:444][712]LogEditorTransaction: Undo Move Nodes
+[2018.11.05-21.33.31:417][746]LogEditorTransaction: Undo Resize Node
+[2018.11.05-21.33.34:331][900]LogEditorTransaction: Redo Resize Node
+[2018.11.05-21.41.14:960][428]LogEditorTransaction: Undo Move Node
+[2018.11.05-21.41.16:064][479]LogEditorTransaction: Undo Move Node
+[2018.11.05-21.41.27:469][311]LogEditorTransaction: Undo Move Node
+[2018.11.05-21.41.27:865][312]LogEditorTransaction: Undo Create Reroute Node
+[2018.11.05-21.41.29:782][427]LogEditorTransaction: Undo Move Node
+[2018.11.05-21.41.31:007][492]LogEditorTransaction: Undo Create Reroute Node
+[2018.11.05-21.43.40:264][707]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.11.05-21.43.41:618][735]LogSavePackage: Moving '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Saved/MotionControllerPawnE5DB9A7446F98A42C76B8AB692097A34.tmp' to '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.11.05-21.44.31:708][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeologyLab" FILE="../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Saved/Autosaves/Game/GeologyLab_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.11.05-21.44.32:065][540]LogSavePackage: Moving '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Saved/GeologyLab_Auto4DAF0F9D64DFAC029C5CB8C8293F82137.tmp' to '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Saved/Autosaves/Game/GeologyLab_Auto4.umap'
+[2018.11.05-21.44.32:076][540]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GeologyLab' took 0.411
+[2018.11.05-21.44.32:076][540]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.411
+[2018.11.05-21.45.15:770][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeologyLab" FILE="../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/GeologyLab.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.05-21.45.16:185][108]LogSavePackage: Moving '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Saved/GeologyLabBCDFD1C3489F480291EC0CBF1B775D03.tmp' to '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/GeologyLab.umap'
+[2018.11.05-21.45.16:255][108]LogFileHelpers: Saving map 'GeologyLab' took 0.747
+[2018.11.05-21.45.17:400][172]LogTemp: Repeating last play command: VR Preview
+[2018.11.05-21.45.17:478][172]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
+[2018.11.05-21.45.17:478][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.05-21.45.17:478][172]PIE: New page: PIE session: GeologyLab (Nov 5, 2018, 11:45:17 AM)
+[2018.11.05-21.45.17:479][172]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GeologyLab
+[2018.11.05-21.45.17:495][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016623s)
+[2018.11.05-21.45.17:496][172]LogAIModule: Creating AISystem for world GeologyLab
+[2018.11.05-21.45.17:496][172]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2018.11.05-21.45.17:496][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GeologyLab.GeologyLab to /Game/UEDPIE_0_GeologyLab.GeologyLab (0.017741s)
+[2018.11.05-21.45.17:547][172]LogInit: XAudio2 using 'Speakers (4- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.05-21.45.17:560][172]LogInit: FAudioDevice initialized.
+[2018.11.05-21.45.17:591][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.05-21.45.17:706][172]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.11.05-21.45.17:706][172]LogLoad: Game class is 'GameModeBase'
+[2018.11.05-21.45.17:710][172]LogWorld: Bringing World /Game/UEDPIE_0_GeologyLab.GeologyLab up for play (max tick rate 0) at 2018.11.05-16.45.17
+[2018.11.05-21.45.17:710][172]LogWorld: Bringing up level for play took: 0.003190
+[2018.11.05-21.45.17:750][172]PIE: Play in editor start time for /Game/UEDPIE_0_GeologyLab -0.602
+[2018.11.05-21.45.17:750][172]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
+[2018.11.05-21.45.21:715][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.05-21.45.23:426][404]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.11.05-21.46.43:826][537]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.05-21.46.43:867][537]LogSlate: Window 'PVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.05-21.46.43:873][537]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
+[2018.11.05-21.46.43:939][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.05-21.46.43:940][537]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
+[2018.11.05-21.46.44:236][538]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2018.11.05-21.48.15:924][105]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCubeRock_C (BP_PickupCubeRock)
+[2018.11.05-21.48.21:788][391]LogEditorViewport: Clicking on Actor (LMB): BP_Amphibole_C (Amphibole)
+[2018.11.05-21.48.24:798][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.05-21.48.25:005][544]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Meshes/amphibole_amphiboleBox017.amphibole_amphiboleBox017
+[2018.11.05-21.48.57:901][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.05-21.49.15:156][903]LogEditorTransaction: Undo Translate Collision
+[2018.11.05-21.49.15:991][933]LogEditorTransaction: Undo Translate Collision
+[2018.11.05-21.49.17:145][987]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.05-21.49.17:913][ 17]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.05-21.49.21:523][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.05-21.49.28:858][575]LogEditorViewport: Clicking on Actor (LMB): BP_Muscovite_C (BP_Muscovite)
+[2018.11.05-21.49.42:875][300]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.05-21.49.43:872][382]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
+[2018.11.05-21.49.43:872][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.05-21.49.43:872][382]PIE: New page: SIE session: GeologyLab (Nov 5, 2018, 11:49:43 AM)
+[2018.11.05-21.49.43:873][382]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GeologyLab
+[2018.11.05-21.49.43:889][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016732s)
+[2018.11.05-21.49.43:890][382]LogAIModule: Creating AISystem for world GeologyLab
+[2018.11.05-21.49.43:891][382]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2018.11.05-21.49.43:891][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GeologyLab.GeologyLab to /Game/UEDPIE_0_GeologyLab.GeologyLab (0.018199s)
+[2018.11.05-21.49.43:945][382]LogInit: XAudio2 using 'Speakers (4- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.05-21.49.43:958][382]LogInit: FAudioDevice initialized.
+[2018.11.05-21.49.43:958][382]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.05-21.49.43:993][382]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.11.05-21.49.43:993][382]LogLoad: Game class is 'GameModeBase'
+[2018.11.05-21.49.43:996][382]LogWorld: Bringing World /Game/UEDPIE_0_GeologyLab.GeologyLab up for play (max tick rate 0) at 2018.11.05-16.49.43
+[2018.11.05-21.49.43:997][382]LogWorld: Bringing up level for play took: 0.002912
+[2018.11.05-21.49.44:009][382]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.11.05-21.49.44:013][382]PIE: Play in editor start time for /Game/UEDPIE_0_GeologyLab -0.344
+[2018.11.05-21.49.44:038][382]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
+[2018.11.05-21.49.53:228][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.05-21.49.54:672][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
+[2018.11.05-21.49.54:672][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.05-21.49.54:754][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.05-21.49.54:755][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GeologyLab.GeologyLab:PersistentLevel' has LevelScriptBlueprint '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab' with GeneratedClass '/Game/GeologyLab.GeologyLab_C' with ClassGeneratedBy '/Game/GeologyLab.GeologyLab:PersistentLevel.GeologyLab'
+[2018.11.05-21.49.54:796][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.05-21.49.54:821][200]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2018.11.05-21.50.10:896][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.05-21.50.47:133][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.05-21.51.05:780][892]LogEditorTransaction: Undo Translate Collision
+[2018.11.05-21.51.06:204][901]LogEditorTransaction: Undo Translate Collision
+[2018.11.05-21.51.06:822][931]LogEditorTransaction: Undo Translate Collision
+[2018.11.05-21.51.11:385][199]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.05-21.51.11:392][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/amphibole_amphiboleBox017" FILE="../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Meshes/amphibole_amphiboleBox017.uasset" SILENT=true
+[2018.11.05-21.51.11:441][199]LogSavePackage: Moving '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Saved/amphibole_amphiboleBox017CDEFCF7F4EBB36B7D83623850F373FD9.tmp' to '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/Meshes/amphibole_amphiboleBox017.uasset'
+[2018.11.05-21.51.15:285][421]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.05-21.51.38:941][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.05-21.52.18:962][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.05-21.52.19:104][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeologyLab" FILE="../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/GeologyLab.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.05-21.52.19:503][ 85]LogSavePackage: Moving '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Saved/GeologyLab3A50BCC44A48C396922961B774312176.tmp' to '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/GeologyLab.umap'
+[2018.11.05-21.52.19:572][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeologyLab_BuiltData" FILE="../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/GeologyLab_BuiltData.uasset" SILENT=true
+[2018.11.05-21.52.19:748][ 85]LogSavePackage: Moving '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Saved/GeologyLab_BuiltData8EE89CF6414FAE1A70C13C8B904A7E41.tmp' to '../../../../../../Users/modderd1/Desktop/PVR/PassportVR/Content/GeologyLab_BuiltData.uasset'
+[2018.11.05-21.52.24:578][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
